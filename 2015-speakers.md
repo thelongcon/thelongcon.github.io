@@ -1,6 +1,7 @@
 ---
 layout: speakers-archived
 permalink: /2015/speakers/
+name: BSides Winnipeg
 year: 2015
 ---
 

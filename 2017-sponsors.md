@@ -1,6 +1,7 @@
 ---
 layout: sponsors-archived
 permalink: /2017/sponsors/
+name: BSides Winnipeg
 year: 2017
 ---
 
