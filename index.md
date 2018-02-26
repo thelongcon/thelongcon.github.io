@@ -9,7 +9,7 @@ permalink: /
     <p><a href="http://www.kingshead.ca/">The King's Head Pub</a><br/>120 King Street, Winnipeg, MB, Canada</p>
 
     <h4>When?</h4>
-    <p>November 2018</p>
+    <p>Saturday November 3rd and Sunday November 4th, 2018</p>
 
     <h4>Cost?</h4>
     <p>Admission is $20</p>
