@@ -8,8 +8,8 @@ permalink: /sponsors/
   <div class="col-lg-12">
     <h2>Sponsors</h2>
 
-    <p>We're in the early planning stages of The Long Con 2018, so no sponsorship package is available at this time.</p>
+    <p>Thank you for your interest in helping The Long Con become reality! Please <a href="/Sponsorship%20Package.pdf">review the sponsorship package here</a>.</p>
 
-    <p>If you're interested in receiving our sponsorship package when it is ready, please <a href="mailto:sponsorship@thelongcon.ca">send us an email</a>.</p>
+    <p>If you have any questions related to the document or would like to help out, please <a href="mailto:sponsorship@thelongcon.ca">send us an email</a>.</p>
   </div>
 </div>
