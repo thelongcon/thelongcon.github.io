@@ -22,6 +22,6 @@ permalink: /
     <h4>What?</h4>
     <p>The Long Con is an information security conference by the community for the community. It follows a traditional conference format but encourages participation, discussion, and collaboration.</p>
 
-    <p>The Long Con 2018 is a two-day information security conference planned November. It is organized as a single track on the top floor of the <a title="King's Crown and Gallery" href="http://www.kingshead.ca/private_events/">King's Head Pub</a>.</p>
+    <p>The Long Con 2018 is a two-day information security conference planned for November. It is organized as a single track on the top floor of the <a title="King's Crown and Gallery" href="http://www.kingshead.ca/private_events/">King's Head Pub</a>.</p>
   </div>
 </div>
