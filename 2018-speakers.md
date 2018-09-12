@@ -12,9 +12,8 @@ permalink: /speakers/
 </div>
 
 
-<div class="row" id="saturday">
+<div class="row">
   <div class="col-lg-12">
-    <h3>Saturday, November 4th, 2017</h3>
     <table class="table table-bordered table-striped table-condensed">
       <thead>
         <tr>
