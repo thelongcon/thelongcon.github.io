@@ -93,7 +93,7 @@ permalink: /speakers/
 
 <div class="row" style="padding-top:3em;" id="brandon-enright">
   <div class="col-lg-12 bg-primary">
-    <h4 class="title"></h4>
+    <h4 class="title">Blockchain is Bull****: Why "Blockchain Technology" Will Not Solve Any Significant Infosec Problems</h4>
     <h5 class="speaker">Brandon Enright</h5>
   </div>
 </div>
