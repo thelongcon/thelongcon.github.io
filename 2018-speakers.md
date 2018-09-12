@@ -274,21 +274,6 @@ They are currently available for hire - more information about them can be found
 
 <!-- *********************************************************************** -->
 
-<div class="row" style="padding-top:3em;" id="robert-keizer">
-  <div class="col-lg-12 bg-primary">
-    <h4 class="title">Abusing video streaming services for storage and transport</h4>
-    <h5 class="speaker">Robert Keizer</h5>
-  </div>
-</div>
-<div class="row">
-  <div class="col-lg-7">
-    <p class="abstract">Video streaming services such as Youtube Live or Twitch can be used in 'alternative' ways, to transmit arbitrary data. This is a presentation about using video streams as both storage (FUSE filesystem) and transport (IP transport). It also will cover how to avoid detection.</p>
-    <p class="bio">Rob Keizer founded Pegboard Hosting, a local cloud provider. He specializes in technology startups, and is currently CTO at Ukkö Robotics. He is a founding director of Coldhak, a nonprofit dedicated to furthering privacy, security, and freedom of speech. His previous community involvement has included serving on boards of SkullSpace and the Manitoba Unix User Group (MUUG).</p>
-  </div>
-</div>
-
-<!-- *********************************************************************** -->
-
 <div class="row" style="padding-top:3em;" id="sarah-lacroix">
   <div class="col-lg-12 bg-primary">
     <h4 class="title">Technological Abuse: What is it and how can we stop it?</h4>
