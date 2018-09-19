@@ -22,9 +22,6 @@ permalink: /speakers/
       </thead>
       <tbody>
         <tr>
-          <td><a href="#aemilianus-kehler">Can't Stop an APT aka You Can't Stop Me!</a><br/>Aemilianus Kehler</td>
-        </tr>
-        <tr>
           <td><a href="#brandon-enright">Blockchain is Bull****: Why "Blockchain Technology" Will Not Solve Any Significant Infosec Problems</a><br/>Brandon Enright</td>
         </tr>
         <tr>
@@ -74,18 +71,6 @@ permalink: /speakers/
         </tr>
       </tbody>
     </table>
-  </div>
-</div>
-
-<div class="row" style="padding-top:3em;" id="aemilianus-kehler">
-  <div class="col-lg-12 bg-primary">
-    <h4 class="title">Can't Stop an APT aka You Can't Stop Me!</h4>
-    <h5 class="speaker">Aemilianus Kehler</h5>
-  </div>
-</div>
-<div class="row">
-  <div class="col-lg-7">
-    <p class="abstract">I fall down rabbit holes often, as I was falling down one particular rabbit hole, one very easy and well known hack to get into Windows OS (any of them), made me tumble down the security layers in place to prevent this, I soon discovered every layer can essentially be hacked/cracked and rendered TPM/Bitlocker mechanism used to secure laptops relatively useless. This is of course a scoped target/attack, but aren't they all?</p>
   </div>
 </div>
 
