@@ -144,7 +144,7 @@ They are currently available for hire - more information about them can be found
 </div>
 <div class="row">
   <div class="col-lg-7">
-    <p class="abstract">Incident responders are on the frontlines of the battle with threat actors and fraudsters alike. This talk will bring a unique perspective into some interesting techniques used by threat actors in recent cases. The “Tales From The Trenches” talk is intended to provide case studies and stories from real-life operations. There won’t be much theory or hypothesizing. Rather, the presentation will focus on challenges and problems that organizations faced and how they overcame them.</p>
+    <p class="abstract">Incident responders are on the frontlines of the battle with threat actors and fraudsters alike. This talk will bring a unique perspective into some interesting techniques used by threat actors in recent cases. The “Tales From The Trenches” talk is intended to provide case studies and stories from real-life operations. There won't be much theory or hypothesizing. Rather, the presentation will focus on challenges and problems that organizations faced and how they overcame them.</p>
     <p class="bio">Julian Pileggi is a Principal Incident Response Consultant at Mandiant, based in Toronto, Canada. His areas of expertise include enterprise incident response, digital forensics, threat hunting and security operations center team development.</p>
   </div>
 </div>
@@ -205,7 +205,7 @@ They are currently available for hire - more information about them can be found
 <div class="row">
   <div class="col-lg-7">
     <p class="abstract">This presentation is a review of the threat intel collected by Palo Alto Networks and Unit42 that was aimed at Canada over the past few months. We will be looking at top delivery methods, top targeted industries and commodity threats vs actual campaigns and the actors behind them.</p>
-    <p class="bio">Mike has been in IT since the 90’s and spent time as an IT manager/director as well as wearing a sales hat for the past 7 years.</p>
+    <p class="bio">Mike has been in IT since the 90's and spent time as an IT manager/director as well as wearing a sales hat for the past 7 years.</p>
   </div>
 </div>
 
@@ -249,8 +249,8 @@ They are currently available for hire - more information about them can be found
 </div>
 <div class="row">
   <div class="col-lg-7">
-    <p class="abstract">When people think “abuse”, most people are still thinking about throwing punches and name-calling. However, as the reliance on technology grows, so does the ability to use it to exert power over others. Technological abuse can be harder to identify because we’re not as familiar with it. This talk explores the different ways technological abuse may manifest itself and how we can empower people to leave a relationship, avoid future abusive relationships and help others to do the same.</p>
-    <p class="bio">Sarah LaCroix cares about technology, education and empowerment. Her career in technology began as a radio talk show host exploring technology and the needs of youth in and from foster care. As a student, she spent a year studying digital forensics and security in Glasgow, Scotland and has served on the executive board of her academic department’s student group. She presented topics of personal interest at Prairie Dev Con Deliver and BSidesWinnipeg in 2017. She will be graduating from Red River College’s Business Information Technology program in June 2019 and wants to secure a role as an analyst. Her interests beyond technology include photography and running.</p>
+    <p class="abstract">When people think “abuse”, most people are still thinking about throwing punches and name-calling. However, as the reliance on technology grows, so does the ability to use it to exert power over others. Technological abuse can be harder to identify because we're not as familiar with it. This talk explores the different ways technological abuse may manifest itself and how we can empower people to leave a relationship, avoid future abusive relationships and help others to do the same.</p>
+    <p class="bio">Sarah LaCroix cares about technology, education and empowerment. Her career in technology began as a radio talk show host exploring technology and the needs of youth in and from foster care. As a student, she spent a year studying digital forensics and security in Glasgow, Scotland and has served on the executive board of her academic department's student group. She presented topics of personal interest at Prairie Dev Con Deliver and BSidesWinnipeg in 2017. She will be graduating from Red River College's Business Information Technology program in June 2019 and wants to secure a role as an analyst. Her interests beyond technology include photography and running.</p>
   </div>
 </div>
 
