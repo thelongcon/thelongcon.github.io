@@ -43,7 +43,13 @@ permalink: /speakers/
           <td><a href="#mark-jenkins">Re-Bootstrapping the Free World</a><br/>Mark Jenkins</td>
         </tr>
         <tr>
+          <td><a href="#matthew-southworth">Stopping Digital Skimmers</a><br/>Matthew Southworth</td>
+        </tr>
+        <tr>
           <td><a href="#mike-himbeault">Amazon S3 Deep Dive for Security Practitioners</a><br/>Mike Himbeault</td>
+        </tr>
+        <tr>
+          <td><a href="#mike-saunders">Web App 101: Getting the Lay of the Land</a><br/>Mike Saunders</td>
         </tr>
         <tr>
           <td><a href="#mike-yallits">Canadian Threat Landscape - Are We Really a Target?</a><br/>Mike Yallits</td>
@@ -62,6 +68,9 @@ permalink: /speakers/
         </tr>
         <tr>
           <td><a href="#theo-baschak">BGP Hijacking Goes Mainstream</a><br/>Theo Baschak</td>
+        </tr>
+        <tr>
+          <td><a href="#tim-jensen">The Easy Path</a><br/>Tim Jensen (AppSec Consulting)</td>
         </tr>
         <tr>
           <td><a href="#travis-friesen">Beware the Maelstrom: The Pitfalls of Password Rotation</a><br/>Travis Friesen</td>
@@ -181,6 +190,21 @@ They are currently available for hire - more information about them can be found
 
 <!-- *********************************************************************** -->
 
+<div class="row" style="padding-top:3em;" id="matthew-southworth">
+  <div class="col-lg-12 bg-primary">
+    <h4 class="title">Stopping Digital Skimmers</h4>
+    <h5 class="speaker">Matthew Soutworth</h5>
+  </div>
+</div>
+<div class="row">
+  <div class="col-lg-7">
+    <p class="abstract">Credit card skimming has moved online, leading to theft of customer data from prominent ecommerce websites by groups like Magecart. This talk will discuss the sophisticated techniques observed in these attacks, including first party modifications of site content, software supply chain attacks, and deceptive C&C infrastructure.  We'll cover ways to detect and prevent these techniques, including monitoring tools, Content Security Policies and Subresource Integrity assertions.</p>
+    <p class="bio">Matthew Southworth enjoys breaking things, New York City, and cooking. He's a senior director of Security Engineering at Priceline.</p>
+  </div>
+</div>
+
+<!-- *********************************************************************** -->
+
 <div class="row" style="padding-top:3em;" id="mike-himbeault">
   <div class="col-lg-12 bg-primary">
     <h4 class="title">Amazon S3 Deep Dive for Security Practitioners</h4>
@@ -191,6 +215,21 @@ They are currently available for hire - more information about them can be found
   <div class="col-lg-7">
     <p class="abstract">Amazon Simple Storage Service (S3) is a complex and highly versatile service that makes it useful for a wide variety of applications, from static website serving to backup and storage. These properties also make it notorious for being frequently misconfigured and poorly understood. This session will provide deep dive details on what S3 is, how it functions, the security constructs and mechanisms supported, and some tips and tricks on how to get the most out of it as a security practitioner.</p>
     <p class="bio">Mike is a local IT professional that is slowly, for reasons he can't quite explain, sliding deeper into non-technical work for most of his days. To combat this, he relentlessly preaches about "cloud" to, and experiments on, anyone that will tolerate it, co-organizes the Winnisec monthly security meetup, and co-founded Flying Fortress IT to bring security and cloud expertise to small and medium businesses. He has spent plenty of time deploying production workloads to AWS, supporting research and development teams, and lately working on technology, systems, and process innovation strategy for the City of Winnipeg.</p>
+  </div>
+</div>
+
+<!-- *********************************************************************** -->
+
+<div class="row" style="padding-top:3em;" id="mike-saunders">
+  <div class="col-lg-12 bg-primary">
+    <h4 class="title">Web App 101: Getting the Lay of the Land</h4>
+    <h5 class="speaker">Mike Saunders</h5>
+  </div>
+</div>
+<div class="row">
+  <div class="col-lg-7">
+    <p class="abstract">Getting started with web apps can be a daunting task. "Ooh, shiny!" rabbit holes are just around the corner with every click. Without a good plan and a road map, it can be very easy to get lost in these holes and run out of time before reaching your goal. This talk covers how to identify the goal and set up a plan that will help you avoid the rabbit holes, identify the points you should focus on, and ultimately help you become an effective application tester.</p>
+    <p class="bio">Mike's love of IT started in the third grade when he discovered he could view the code of BASIC programs on an Apple ][e. He has held many information technology and IT security positions, including developer, network and system administrator, security architect and security incident handler. Currently, Mike is a principal consultant with Red Siege. When he is not at work, he is an avid ice fishing and kayak fisherman and member of a local horn rock band.</p>
   </div>
 </div>
 
@@ -281,6 +320,21 @@ They are currently available for hire - more information about them can be found
   <div class="col-lg-7">
     <p class="abstract">In past years talks Theo has talked extensively about BGP, and BGP hijacking. In 2018 we've seen several instances of where BGP hijacking has been combined with other methods to steal cryptocurrency.</p>
     <p class="bio">Theo is an active player in Manitoba's ISP scene. These days he does networking professionally, focusing on architecting and building routed networks using BGP. Theo has his own BGP AS, enjoys photography and curries, and volunteers his time with the Manitoba Internet Exchange and the Manitoba Network Operator Group.</p>
+  </div>
+</div>
+
+<!-- *********************************************************************** -->
+
+<div class="row" style="padding-top:3em;" id="tim-jensen">
+  <div class="col-lg-12 bg-primary">
+    <h4 class="title">The Easy Path</h4>
+    <h5 class="speaker">Tim Jensen (AppSec Consulting)</h5>
+  </div>
+</div>
+<div class="row">
+  <div class="col-lg-7">
+    <p class="abstract">Time will demonstrate chaining multiple vulnerabilities together, most of them for SMB, to compromise systems quickly and efficiently. He will also provide remediation recommendations. Tim will discuss the Responder, CrackMapExec, and MultiRelay tools. He'll also go over disabling antivirus through crackmap, pulling creds across large networks, and compromising Windows 2000 hosts with Metasploit.</p>
+    <p class="bio">Tim Jensen is a Senior Penetration Tester with AppSec Consulting, based out of San Jose California. Tim lives in Fargo, ND USA and greatly enjoys Network, Physical, and Wireless testing. When not obsessing over hacking, Tim spends time playing with Software Defined Radios, volunteering, and going on adventures.</p>
   </div>
 </div>
 
