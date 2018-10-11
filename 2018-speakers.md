@@ -43,9 +43,6 @@ permalink: /speakers/
           <td><a href="#mark-jenkins">Re-Bootstrapping the Free World</a><br/>Mark Jenkins</td>
         </tr>
         <tr>
-          <td><a href="#mazin-ahmed">Practical Approaches for Testing and Breaking JWT Authentication</a><br/>Mazin Ahmed</td>
-        </tr>
-        <tr>
           <td><a href="#mike-himbeault">Amazon S3 Deep Dive for Security Practitioners</a><br/>Mike Himbeault</td>
         </tr>
         <tr>
@@ -179,21 +176,6 @@ They are currently available for hire - more information about them can be found
   <div class="col-lg-7">
     <p class="abstract">Mark turns his obsession with secure bootstraps towards a progress update on the work of others to re-bootstrap the free world (bootstrappable.org) . Along the way he'll review the role bootstrapping could play for the problem of 2 or more persons in a room needing to trust a shared computer. (As per last year, Mark calls this the voting machine problem or Wright-Andresen problem)</p>
     <p class="bio">Mark is an occasional free software hacker and member since founding of Winnipeg's hackerspace Skullspace. He works as a sysadmin specializing in GNU/Linux servers at the University of Winnipeg Library. You can also run into him at the Manitoba Unix User Group from time to time. Mark has presented at all three prior incarnations (2013, 2015, 2017) of the Long Con under its previous title.</p>
-  </div>
-</div>
-
-<!-- *********************************************************************** -->
-
-<div class="row" style="padding-top:3em;" id="mazin-ahmed">
-  <div class="col-lg-12 bg-primary">
-    <h4 class="title">Practical Approaches for Testing and Breaking JWT Authentication</h4>
-    <h5 class="speaker">Mazin Ahmed</h5>
-  </div>
-</div>
-<div class="row">
-  <div class="col-lg-7">
-    <p class="abstract">In my presentation, I will show common implementation weaknesses observed in the wild, how to test and break JWT authentication, as well as demonstrate practical approaches for securing JWT against each described attack. In addition, I will release an open-source toolkit for testing JWT in modern applications.</p>
-    <p class="bio">Mazin is a security consultant who specializes in web-application and mobile-application security. He is passionate about information security and has previously found vulnerabilities in Facebook, Twitter, Linkedin, and Oracle to name a few. Mazin works at ProtonMail security team.</p>
   </div>
 </div>
 
