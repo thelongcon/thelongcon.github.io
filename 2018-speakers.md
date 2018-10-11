@@ -298,4 +298,3 @@ They are currently available for hire - more information about them can be found
     <p class="bio">Travis misspent 10 years studying computers and network security at the University of Manitoba before being unleashed on an unsuspecting world. After spending some time writing autopilot software for UAVs, he settled into a career in InfoSec, working in the education sector and founding Flying Fortress IT, a firm which specializes in providing small and medum businesses with security and cloud infrastructure expertise.</p>
   </div>
 </div>
-
