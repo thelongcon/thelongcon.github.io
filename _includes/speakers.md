@@ -1,9 +1,154 @@
-<div class="row marketing">
+<div class="row" id="saturday">
   <div class="col-lg-12">
-    <h2>Speakers</h2>
-    <p>Below are the presentations selected for this year. The schedule will be finalized in the coming days.</p>
+    <h3>Saturday, November 3rd, 2018</h3>
+    <table class="table table-bordered table-striped table-condensed">
+      <thead>
+        <tr>
+          <th>Time</th>
+          <th>Event</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>10:00 &ndash; 11:00</td>
+          <td>Registration</td>
+        </tr>
+        <tr>
+          <td>11:00 &ndash; 11:25</td>
+          <td>Opening Ceremony</td>
+        </tr>
+        <tr>
+          <td>11:30 &ndash; 11:55</td>
+          <td><a href="#eric-gershman">Cracked in 60 Seconds: Attacking Mobile Wi-Fi Hotspots</a><br/>Eric Gershman</td>
+        </tr>
+        <tr>
+          <td>12:00 &ndash; 12:55</td>
+          <td><a href="#muz">The Reproducible Builds Project</a><br/>Muz</td>
+        </tr>
+        <tr>
+          <td>13:00 &ndash; 13:45</td>
+          <td>Lunch Break</td>
+        </tr>
+        <tr>
+          <td>13:45 &ndash; 14:10</td>
+          <td><a href="#sean-smith">Things the Internet Knows About You</a><br/>Sean Smith</td>
+        </tr>
+        <tr>
+          <td>14:15 &ndash; 14:40</td>
+          <td><a href="#mike-himbeault">Amazon S3 Deep Dive for Security Practitioners</a><br/>Mike Himbeault</td>
+        </tr>
+        <tr>
+          <td>14:45 &ndash; 15:10</td>
+          <td><a href="#glitch-witch">Working with Hackers: A (Brief) Look at Implementing Vulnerability Reporting Policies</a><br/>Glitch Witch</td>
+        </tr>
+        <tr>
+          <td>15:15 &ndash; 15:45</td>
+          <td>Coffee Break</td>
+        </tr>
+        <tr>
+          <td>15:45 &ndash; 16:40</td>
+          <td><a href="#mike-saunders">Web App 101: Getting the Lay of the Land</a><br/>Mike Saunders</td>
+        </tr>
+        <tr>
+          <td>16:45 &ndash; 17:30</td>
+          <td>Dinner Break</td>
+        </tr>
+        <tr>
+          <td>17:30 &ndash; 17:55</td>
+          <td><a href="#matthew-southworth">Stopping Digital Skimmers</a><br/>Matthew Southworth</td>
+        </tr>
+        <tr>
+          <td>17:00 &ndash; 18:25</td>
+          <td><a href="#tim-jensen">The Easy Path</a><br/>Tim Jensen</td>
+        </tr>
+        <tr>
+          <td>18:30 &ndash; 18:55</td>
+          <td><a href="#christian-peron">Collecting and Analyzing Security Telemetry at Scale</a><br/>Christian Peron</td>
+        </tr>
+      </tbody>
+    </table>
   </div>
 </div>
+
+<!-- *********************************************************************** -->
+
+<div class="row" id="sunday">
+  <div class="col-lg-12">
+    <h3>Sunday, November 4th, 2018</h3>
+    <table class="table table-bordered table-striped table-condensed">
+      <thead>
+        <tr>
+          <th>Time</th>
+          <th>Event</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>10:00 &ndash; 10:25</td>
+          <td><a href="#mark-jenkins">Re-Bootstrapping the Free World</a><br/>Mark Jenkins</td>
+        </tr>
+        <tr>
+          <td>10:30 &ndash; 10:55</td>
+          <td><a href="#magno-logan">DevSecOps - Integrating Security in the Development Pipeline</a><br/>Magno Logan</td>
+        </tr>
+        <tr>
+          <td>11:00 &ndash; 11:25</td>
+          <td><a href="#robert-keizer">Abusing Video Streaming Services for Storage and Transport</a><br/>Robert Keizer</td>
+        </tr>
+        <tr>
+          <td>11:30 &ndash; 11:55</td>
+          <td><a href="#sarah-lacroix">Technological Abuse: what is it and how can we stop it?</a><br/>Sarah LaCroix</td>
+        </tr>
+        <tr>
+          <td>12:00 &ndash; 12:25</td>
+          <td><a href="#theo-baschak">BGP Hijacking Goes Mainstream</a><br/>Theo Baschak</td>
+        </tr>
+        <tr>
+          <td>12:30 &ndash; 12:55</td>
+          <td><a href="#mike-yallits">Canadian Threat Landscape - Are We Really a Target?</a><br/>Mike Yallits</td>
+        </tr>
+        <tr>
+          <td>13:00 &ndash; 13:45</td>
+          <td>Lunch Break</td>
+        </tr>
+        <tr>
+          <td>13:45 &ndash; 15:00</td>
+          <td>Whose Slide Is It Anyway?</td>
+        </tr>
+        <tr>
+          <td>15:00 &ndash; 15:30</td>
+          <td>Coffee Break</td>
+        </tr>
+        <tr>
+          <td>15:30 &ndash; 15:55</td>
+          <td><a href="#travis-friesen">Beware the Maelstrom: The Pitfalls of Password Rotation</a><br/>Travis Friesen</td>
+        </tr>
+        <tr>
+          <td>16:00 &ndash; 16:25</td>
+          <td><a href="#brandon-enright">Blockchain is Bull****: Why "Blockchain Technology" Will Not Solve Any Significant Infosec Problems</a><br/>Brandon Enright</td>
+        </tr>
+        <tr>
+          <td>16:30 &ndash; 17:30</td>
+          <td>Dinner Break</td>
+        </tr>
+        <tr>
+          <td>17:30 &ndash; 17:55</td>
+          <td><a href="#julian-pileggi">Tales from the Trenches</a><br/>Julian Pileggi</td>
+        </tr>
+        <tr>
+          <td>18:00 &ndash; 18:25</td>
+          <td>CTF Walkthrough</td>
+        </tr>
+        <tr>
+          <td>18:30 &ndash; 18:55</td>
+          <td>Closing Ceremony</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<!-- *********************************************************************** -->
 
 <div class="row">
   <div class="col-lg-12">
