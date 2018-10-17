@@ -125,7 +125,7 @@
         </tr>
         <tr>
           <td>16:00 &ndash; 16:25</td>
-          <td><a href="#brandon-enright">Blockchain is Bull****: Why "Blockchain Technology" Will Not Solve Any Significant Infosec Problems</a><br/>Brandon Enright</td>
+          <td><a href="#brandon-enright">Blockchain is Bullshit: Why "Blockchain Technology" Will Not Solve Any Significant Infosec Problems</a><br/>Brandon Enright</td>
         </tr>
         <tr>
           <td>16:30 &ndash; 17:30</td>
@@ -152,14 +152,14 @@
 
 <div class="row" style="padding-top:3em;" id="brandon-enright">
   <div class="col-lg-12 bg-primary">
-    <h4 class="title">Blockchain is Bull****: Why "Blockchain Technology" Will Not Solve Any Significant Infosec Problems</h4>
+    <h4 class="title">Blockchain is Bullshit: Why "Blockchain Technology" Will Not Solve Any Significant Infosec Problems</h4>
     <h5 class="speaker">Brandon Enright</h5>
   </div>
 </div>
 <div class="row">
   <div class="col-lg-7">
     <p class="abstract">Unless you've been living under a rock, you've heard that blockchains are the solution.  Have a problem (ANY problem) in need of a solution?  Blockchain it!  Of course, the hype doesn't match reality.  This talk will cover basic blockchain algorithm concepts, explain what sort of problems are particularly well suited to blockchains, and talk a bit about why infosec doesn't have those problems.</p>
-    <p class="bio">Like all great cyber security thought leaders, Brandon Enright is a self-aggrandizing Twitter whore.  When he isn't leading cyber infosec thoughts, he's leading cyber dreams.  Brandon can factor large primes with nothing more than pencil and paper and even recite the digits of Pi in random order in arbitrary bases.  Recognized as one of the great legends in machine learning, several of Brandon's machines have learned so much that philosophers argue turning them off would be murder. Rumor has it that shortly after Elon Musk met Brandon, Elon bought a small island in the south pacific for shelter and revised his estimate of the coming singularity up a decade.  Brandon is why Bruce Schneier has trouble sleeping at night.</p>
+    <p class="bio">Like all great cyber security thought leaders, Brandon Enright is a self-aggrandizing Twitter *****.  When he isn't leading cyber infosec thoughts, he's leading cyber dreams.  Brandon can factor large primes with nothing more than pencil and paper and even recite the digits of Pi in random order in arbitrary bases.  Recognized as one of the great legends in machine learning, several of Brandon's machines have learned so much that philosophers argue turning them off would be murder. Rumor has it that shortly after Elon Musk met Brandon, Elon bought a small island in the south pacific for shelter and revised his estimate of the coming singularity up a decade.  Brandon is why Bruce Schneier has trouble sleeping at night.</p>
   </div>
 </div>
 
