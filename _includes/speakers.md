@@ -51,7 +51,7 @@
         </tr>
         <tr>
           <td>16:45 &ndash; 17:30</td>
-          <td>Dinner Break</td>
+          <td>Dinner Break<br/>Catered by The King's Head</td>
         </tr>
         <tr>
           <td>17:30 &ndash; 17:55</td>
@@ -129,7 +129,7 @@
         </tr>
         <tr>
           <td>16:30 &ndash; 17:30</td>
-          <td>Dinner Break</td>
+          <td>Dinner Break<br/>Catered by The King's Head</td>
         </tr>
         <tr>
           <td>17:30 &ndash; 17:55</td>
