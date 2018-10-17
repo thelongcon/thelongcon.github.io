@@ -58,7 +58,7 @@
           <td><a href="#matthew-southworth">Stopping Digital Skimmers</a><br/>Matthew Southworth</td>
         </tr>
         <tr>
-          <td>17:00 &ndash; 18:25</td>
+          <td>18:00 &ndash; 18:25</td>
           <td><a href="#tim-jensen">The Easy Path</a><br/>Tim Jensen</td>
         </tr>
         <tr>
