@@ -1,7 +1,7 @@
 ---
 layout: default
 name: The Long Con
-permalink: /speakers/
+permalink: /schedule/
 ---
 
 {% include speakers.md %}
