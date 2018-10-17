@@ -54,7 +54,7 @@ permalink: /
     <h3>Silver</h3>
     <a href="http://highspeedcrow.ca/" target="_blank"><img class="sponsorlogo" src="/logos/high_speed_crow2017.png"/></a>
     <a href="https://www.pegboardhosting.ca/" target="_blank"><img class="sponsorlogo" src="/logos/pegboard_logo_fin_k.jpg"/></a>
-    <a href="https://www.isaca.org/" target="_blank"><img class="sponsorlogo" src="/logos/isaca_2018.png"/></a>
+    <a href="http://isaca-wpg.org" target="_blank"><img class="sponsorlogo" src="/logos/isaca_2018.png"/></a>
     <a href="https://www.winnipeg.ca/" target="_blank"><img class="sponsorlogo" src="/logos/city.jpg"/></a>
     <a href="https://pricelinepartnernetwork.com/" target="_blank"><img class="sponsorlogo" src="/logos/priceline.png"/></a>
     <a href="https://www.appsecconsulting.com/" target="_blank"><img class="sponsorlogo" src="/logos/appsec.jpg"/></a>
