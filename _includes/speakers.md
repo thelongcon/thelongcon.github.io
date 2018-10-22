@@ -261,7 +261,7 @@ They are currently available for hire - more information about them can be found
 <div class="row" style="padding-top:3em;" id="matthew-southworth">
   <div class="col-lg-12 bg-primary">
     <h4 class="title">Stopping Digital Skimmers</h4>
-    <h5 class="speaker">Matthew Soutworth</h5>
+    <h5 class="speaker">Matthew Southworth</h5>
   </div>
 </div>
 <div class="row">
