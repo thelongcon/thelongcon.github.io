@@ -59,7 +59,7 @@
         </tr>
         <tr>
           <td>18:00 &ndash; 18:25</td>
-          <td><a href="#tim-jensen">The Easy Path</a><br/>Tim Jensen</td>
+          <td><a href="#tim-jensen">The Easy Path</a><br/>Tim Jensen (Appsec Consulting)</td>
         </tr>
         <tr>
           <td>18:30 &ndash; 18:55</td>
