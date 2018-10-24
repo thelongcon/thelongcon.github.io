@@ -361,7 +361,7 @@ They are currently available for hire - more information about them can be found
 <div class="row">
   <div class="col-lg-7">
     <p class="abstract">Reading binary is hard: it's all bits and bytes! But sometimes, it comes in handy. This presentation will be a story about finding and using an 0-day in commercial software during a pentest.</p>
-    <p class="bio">"Just use [the bio] from last time."</p>
+    <p class="bio">"Bio: Just use the one from last time."</p>
   </div>
 </div>
 
