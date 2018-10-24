@@ -22,8 +22,12 @@
           <td><a href="#eric-gershman">Cracked in 60 Seconds: Attacking Mobile Wi-Fi Hotspots</a><br/>Eric Gershman</td>
         </tr>
         <tr>
-          <td>12:00 &ndash; 12:55</td>
+          <td>12:00 &ndash; 12:25</td>
           <td><a href="#muz">The Reproducible Builds Project</a><br/>Muz</td>
+        </tr>
+        <tr>
+          <td>12:30 &ndash; 12:55</td>
+          <td><a href="#ron-bowes">Reading Binary: Finding and Using an 0-day for a Pentest</a><br/>Ron Bowes</td>
         </tr>
         <tr>
           <td>13:00 &ndash; 13:45</td>
@@ -343,6 +347,21 @@ They are currently available for hire - more information about them can be found
   <div class="col-lg-7">
     <p class="abstract">Video streaming services such as Youtube Live or Twitch can be used in 'alternative' ways, to transmit arbitrary data. This is a presentation about using video streams as both storage (FUSE filesystem) and transport (IP transport). It also will cover how to avoid detection.</p>
     <p class="bio">Rob Keizer founded Pegboard Hosting, a local cloud provider. He specializes in technology startups, and is currently CTO at Ukkö Robotics. He is a founding director of Coldhak, a nonprofit dedicated to furthering privacy, security, and freedom of speech. His previous community involvement has included serving on boards of SkullSpace and the Manitoba Unix User Group (MUUG).</p>
+  </div>
+</div>
+
+<!-- *********************************************************************** -->
+
+<div class="row" style="padding-top:3em;" id="ron-bowes">
+  <div class="col-lg-12 bg-primary">
+    <h4 class="title">Reading Binary: Finding and Using an 0-day for a Pentest</h4>
+    <h5 class="speaker">Ron Bowes</h5>
+  </div>
+</div>
+<div class="row">
+  <div class="col-lg-7">
+    <p class="abstract">Reading binary is hard: it's all bits and bytes! But sometimes, it comes in handy. This presentation will be a story about finding and using an 0-day in commercial software during a pentest.</p>
+    <p class="bio">"Just use the one from last time."</p>
   </div>
 </div>
 
