@@ -31,7 +31,7 @@
         </tr>
         <tr>
           <td>13:00 &ndash; 13:45</td>
-          <td>Lunch Break</td>
+          <td>Lunch Break<br/>Catered by The King's Head</td>
         </tr>
         <tr>
           <td>13:45 &ndash; 14:10</td>
@@ -113,7 +113,7 @@
         </tr>
         <tr>
           <td>13:00 &ndash; 13:45</td>
-          <td>Lunch Break</td>
+          <td>Lunch Break<br/>Catered by The King's Head</td>
         </tr>
         <tr>
           <td>13:45 &ndash; 15:00</td>
