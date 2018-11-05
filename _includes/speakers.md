@@ -73,7 +73,7 @@
           <tr>
             <td>13:00 &ndash; 13:45</td>
             
-              <td>Lunch BreakCatered by The King's Head</td>
+              <td>Lunch Break - Catered by The King's Head</td>
             
           </tr>
           
@@ -131,7 +131,7 @@
           <tr>
             <td>16:45 &ndash; 17:30</td>
             
-              <td>Dinner BreakCatered by The King's Head</td>
+              <td>Dinner Break - Catered by The King's Head</td>
             
           </tr>
           
@@ -254,7 +254,7 @@
           <tr>
             <td>13:00 &ndash; 13:45</td>
             
-              <td>Lunch BreakCatered by The King's Head</td>
+              <td>Lunch Break - Catered by The King's Head</td>
             
           </tr>
           
