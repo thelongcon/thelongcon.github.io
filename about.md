@@ -24,10 +24,4 @@ permalink: /about/
 
     <p>Policy graciously borrowed from BSidesSF, with minor alterations.</p>
   </div>
-
-  <div class="col-lg-6">
-    <a href="https://www.flickr.com/photos/bsideswpg/10910499375" title="Crowd by BSides Winnipeg, on Flickr">
-      <img src="https://farm4.staticflickr.com/3816/10910499375_716d01b894.jpg" width="500" height="333" alt="Crowd" class="img-responsive" alt="Responsive image">
-    </a>
-  </div>
 </div>

@@ -1,7 +1,7 @@
 ---
 layout: default
 name: The Long Con
-permalink: /sponsors/
+permalink: /2018/sponsors/
 ---
 
 <div class="row marketing">
