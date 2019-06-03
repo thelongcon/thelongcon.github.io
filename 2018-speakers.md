@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: speakers-archived
 name: The Long Con
 permalink: /2018/speakers/
 ---
