@@ -1,7 +1,7 @@
 ---
 layout: speakers-archived
-name: The Long Con
 permalink: /2018/speakers/
+year: 2018
 ---
 
 

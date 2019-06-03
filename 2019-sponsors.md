@@ -1,6 +1,5 @@
 ---
 layout: default
-name: The Long Con
 permalink: /sponsors/
 ---
 

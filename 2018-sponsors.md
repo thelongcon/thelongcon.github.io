@@ -1,7 +1,7 @@
 ---
 layout: sponsors-archived
-name: The Long Con
 permalink: /2018/sponsors/
+year: 2018
 ---
 
 <div class="row marketing">
