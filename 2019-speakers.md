@@ -248,7 +248,7 @@ permalink: /speakers/
   <div class="row">
     <div class="col-lg-7">
       <p class="abstract">WPA2 Enterprise is a very common method of wireless authentication used at large organizations. These credentials can be harvested using a Raspberry Pi in many cases. I will cover how to setup the Pi using hostapd-wpe, and how various clients respond to the attacking Pi. I will also go over the most common SSID in use for higher education and the challenges that presents.</p>
-      <p class="bio">Richard Frovarp is a senior software engineer at North Dakota State University. There he focuses on identity and access management, federated authentication, and integrating a wide variety of systems together.</p>
+      <p class="bio">Richard Frovarp is a principal software engineer at North Dakota State University. There he focuses on identity and access management, federated authentication, and integrating a wide variety of systems together.</p>
     </div>
   </div>
 
