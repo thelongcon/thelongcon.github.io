@@ -25,3 +25,30 @@ permalink: /
     <p>The Long Con 2019 is a two-day information security conference planned for November. It is organized as a single track inside the <a title="The Good Will" href="https://thegoodwill.ca">The Good Will Social Club</a>.</p>
   </div>
 </div>
+
+<div class="row marketing">
+  <div class="col-lg-12">
+    <style>
+      img.sponsorlogo { max-height:300; max-width:300px; display:inline-block; padding:20px 50px; }
+      a.sponsortext { font-size:30px; font-weight:bold; display:inline-block; padding:20px }
+    </style>
+
+    <h3>Platinum Sponsors</h3>
+    <a href="https://www.cisco.com/c/en_ca/products/security/index.html" target="_blank"><img class="sponsorlogo" src="/logos/cisco_security_vertical.png"/></a>
+    <a href="https://www.fireeye.com" target="_blank"><img class="sponsorlogo" src="/logos/fireeye.png"/></a>
+    <a href="https://powerland.ca" target="_blank"><img class="sponsorlogo" src="/logos/powerland.svg"/></a>
+    <hr />
+    <h3>Gold and Silver Sponsors</h3>
+    <a href="https://idio.ai" target="_blank"><img class="sponsorlogo" style="max-width:240px" src="/logos/idio.png"/></a>
+
+    <a href="https://about.gitlab.com" target="_blank"><img class="sponsorlogo" src="/logos/gitlab.png"/></a>
+    <a href="https://24-7intouch.com/" target="_blank"><img class="sponsorlogo" src="/logos/247intouch.jpg"/></a>
+    <a href="http://www.151research.com/" target="_blank"><img class="sponsorlogo" style="max-height:180px" src="/logos/151research.jpg"/></a>
+    <a href="https://www.obsglobal.com/" target="_blank"><img class="sponsorlogo" src="/logos/obs_2017.png"/></a>
+    <a href="http://highspeedcrow.ca/" target="_blank"><img class="sponsorlogo" src="/logos/high_speed_crow2017.png"/></a>
+    <a href="https://pricelinepartnernetwork.com/" target="_blank"><img class="sponsorlogo" src="/logos/priceline.png"/></a>
+    <a href="https://rrc.ca/" target="_blank"><img class="sponsorlogo" src="/logos/rrc.jpg"/></a>
+    <a href="https://www.canadalife.com/" target="_blank"><img class="sponsorlogo" src="/logos/canada_life.png"/></a>
+    <a href="https://les.net" target="_blank"><img class="sponsorlogo" src="/logos/les_dot_net.jpg"/></a>
+  </div>
+</div>
