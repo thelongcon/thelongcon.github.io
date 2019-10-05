@@ -35,12 +35,12 @@ permalink: /
 
     <h3>Platinum Sponsors</h3>
     <a href="https://www.cisco.com/c/en_ca/products/security/index.html" target="_blank"><img class="sponsorlogo" src="/logos/cisco_security_vertical.png"/></a>
-    <a href="https://www.fireeye.com" target="_blank"><img class="sponsorlogo" src="/logos/fireeye.png"/></a>
-    <a href="https://powerland.ca" target="_blank"><img class="sponsorlogo" src="/logos/powerland.svg"/></a>
+    <a href="https://www.fireeye.com" target="_blank"><img class="sponsorlogo" style="max-width:400px" src="/logos/fireeye.png"/></a>
+    <a href="https://powerland.ca" target="_blank"><img class="sponsorlogo" style="max-width:400px" src="/logos/powerland.svg"/></a>
     <hr />
     <h3>Gold and Silver Sponsors</h3>
     <a href="https://idio.ai" target="_blank"><img class="sponsorlogo" style="max-width:240px" src="/logos/idio.png"/></a>
-
+    <a href="https://campfire.technology" target="_blank"><img class="sponsorlogo" src="/logos/campfire.png"/></a>
     <a href="https://about.gitlab.com" target="_blank"><img class="sponsorlogo" src="/logos/gitlab.png"/></a>
     <a href="https://24-7intouch.com/" target="_blank"><img class="sponsorlogo" src="/logos/247intouch.jpg"/></a>
     <a href="http://www.151research.com/" target="_blank"><img class="sponsorlogo" style="max-height:180px" src="/logos/151research.jpg"/></a>
