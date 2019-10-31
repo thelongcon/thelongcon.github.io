@@ -140,7 +140,7 @@ permalink: /speakers/
           </tr>
 
           <tr>
-            <td>12:30 &ndash; 12:50</td>
+            <td>12:30 &ndash; 13:10</td>
 
               <td>
                 <a href="#travis-friesen">Evading commercial anti-virus, Or How I Learned to Stop Worrying And Love Windows Defender.</a>
@@ -151,14 +151,14 @@ permalink: /speakers/
           </tr>
 
           <tr>
-            <td>13:00 &ndash; 14:00</td>
+            <td>13:10 &ndash; 14:10</td>
 
               <td>Lunch Break - Catered</td>
 
           </tr>
 
           <tr>
-            <td>14:00 &ndash; 14:50</td>
+            <td>14:10 &ndash; 14:50</td>
 
               <td>
                 <a href="#mike-himbeault">Taking Back the Home: Reverse engineering proprietary home automation</a>
