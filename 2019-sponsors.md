@@ -26,6 +26,7 @@ year: 2019
     <a href="https://powerland.ca" target="_blank"><img class="sponsorlogo" style="max-width:400px" src="/logos/powerland.svg"/></a>
     <hr />
     <h3>Gold and Silver</h3>
+    <a href="https://www.paloaltonetworks.com" target="_blank"><img class="sponsorlogo" src="/logos/palo_alto.png"/></a>
     <a href="https://idio.ai" target="_blank"><img class="sponsorlogo" style="max-width:240px" src="/logos/idio.png"/></a>
     <a href="https://campfire.technology" target="_blank"><img class="sponsorlogo" src="/logos/campfire.png"/></a>
     <a href="https://about.gitlab.com" target="_blank"><img class="sponsorlogo" src="/logos/gitlab.png"/></a>
