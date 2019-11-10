@@ -1,6 +1,7 @@
 ---
-layout: default
-permalink: /speakers/
+layout: speakers-archived
+permalink: /2019/speakers/
+year: 2019
 ---
 
 
