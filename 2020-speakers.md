@@ -4,7 +4,6 @@ permalink: /speakers/
 year: 2020
 ---
 
-
 <div class="row marketing">
   <div class="col-lg-12">
     <h2>Speakers</h2>
