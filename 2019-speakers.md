@@ -237,6 +237,7 @@ year: 2019
     <div class="col-lg-7">
       <p class="abstract">Curious about Windows Management Instrumentation (WMI)? Katherine will explain what WMI is, and show you a variety of tools to navigate and query Windows’ implementation of WBEM and CIM.  Become enlightened on how WMI can be used… and abused.</p>
       <p class="bio">Katherine is a LAN Administrator whose (current) favourite past time is digging into Windows Internals and playing with PowerShell. She is Manitoba UNIX User Group board member (2010-current), has a Network Technology, CCNA (Hons.) from RRC, and holds a GIAC Certified Windows Security Administrator (GCWN) Certification.</p>
+    <p><a href="/slides/2019/Rad_Omens_Katherine_Scrupa.pdf">Presentation slides (PDF)</a></p>
     </div>
   </div>
 
@@ -250,6 +251,7 @@ year: 2019
     <div class="col-lg-7">
       <p class="abstract">WPA2 Enterprise is a very common method of wireless authentication used at large organizations. These credentials can be harvested using a Raspberry Pi in many cases. I will cover how to setup the Pi using hostapd-wpe, and how various clients respond to the attacking Pi. I will also go over the most common SSID in use for higher education and the challenges that presents.</p>
       <p class="bio">Richard Frovarp is a principal software engineer at North Dakota State University. There he focuses on identity and access management, federated authentication, and integrating a wide variety of systems together.</p>
+    <p><a href="/slides/2019/Capturing_WPA2_Enterprise_Credentials_Richard_Frovarp.pdf">Presentation slides (PDF)</a></p>
     </div>
   </div>
 
@@ -276,6 +278,7 @@ year: 2019
     <div class="col-lg-7">
       <p class="abstract">The current model for penetration testing is broken. The typical scan and exploit model doesn’t reflect how real attackers operate after establishing a foothold. At the same time, most organizations aren’t mature enough to need a proper red team assessment.  It’s time to start adopting the assumed breach model. In this talk, I’ll discuss techniques for assumed breach assessments that provide a better model for emulating the techniques attackers use once they’re they’ve established a foothold inside a typical network.</p>
       <p class="bio">Mike Saunders is a principal consultant for Red Siege.  He has over 25 years of experience in IT and security and has worked in the ISP, financial, insurance, and agribusiness industries. He has held a variety of roles in his career including system and network administration, development, and security architect. Mike been performing penetration tests for nearly a decade. Mike is an experienced speaker and has spoken at DerbyCon, BSides MSP, BSides Winnipeg / The Long Con, BSides KC, WWHF, and the NDSU Cyber Security Conference. He has participated multiple times as a member of NCCCDC Red Team.</p>
+      <p><a href="/slides/2019/Assumed_Breach_Mike_Saunders.pdf">Presentation slides (PDF)</a></p>
     </div>
   </div>
 
@@ -317,6 +320,7 @@ year: 2019
     <div class="col-lg-7">
       <p class="abstract">Burp Suite is one of the most well known and well used set of tools for AppSec testing. This talk aims to demonstrate how it can be possible to easily start testing web applications and look for common vulnerabilities such as XSS, SQL Injection, LFI, IDOR, CSRF, and many others. In addition to demonstrate how to use Burp, we'll talk about the basic knowledge involved with AppSec testing that is usually more important than knowing how to use the tool itself. Some of the things we will cover are: HTTP, Requests, Responses, Web Proxy, Burp Suite and Burp tools and features like Target, Proxy, Spider, Intruder and Repeater. If you are either a Pentester, AppSec professional or Bounty Hunter and would like to know about how Burp works and start testing web applications and exploiting them for vulnerabilities this talk is for you. All features will be demonstrated using the Burp Community edition.</p>
       <p class="bio">Magno (Logan) Rodrigues is an Information Security Specialist focused on Application Security, WAF, DevSecOps and Secure Coding. He was the founder of the OWASP Paraíba Chapter and the JampaSec Security Conference in Brazil. And a speaker at many conferences such as the RoadSecSP, BSidesSP, MindTheSec RJ, OWASP App Sec Latam, BHack and Just4Meeting in Portugal. Studied Security and Computer Forensics at TC3 in New York, US. His current focus is Application Security, WAF, Secure Coding and DevSecOps and how to properly empower the developers to perform secure coding and to add the right security tools into the development pipeline that can bring value to the business and be able to catch vulnerabilities even before they are committed. He has the following certifications: CompTIA CySA+, Security+, Cloud Essentials, EXIN Secure Programming and Ethical Hacking. He is also a CompTIA SME and is pursuing his Pentest+ and OSCP certifications.</p>
+    <p><a href="/slides/2019/Web_Hacking_101_Magno_Logan.pdf">Presentation slides (PDF)</a></p>
     </div>
   </div>
 
@@ -343,6 +347,7 @@ year: 2019
     <div class="col-lg-7">
       <p class="abstract">My presentation will go over common methods and tools for evading modern commercial anti-virus, with an eye towards raising awareness of the shortcomings and limitations of commercial anti-virus suites.</p>
       <p class="bio">Travis misspent 10 years studying computers and network security at the University of Manitoba before being unleashed on an unsuspecting world. After spending some time writing autopilot software for UAVs, he settled into a career in InfoSec, working in the education sector and founding Flying Fortress IT, a firm which specializes in providing small and medium businesses with security and cloud infrastructure expertise.</p>
+    <p><a href="/slides/2019/Antivirus_Evasion_Techniques_and_Tools_Travis_Friesen.pdf">Presentation slides (PDF)</a></p>
     </div>
   </div>
 
@@ -356,6 +361,7 @@ year: 2019
     <div class="col-lg-7">
       <p class="abstract">Home automation systems are split primarily into the two camps of open (and open-source), and proprietary. Proprietary systems have an advantage in that they are typically managed by a third party (for a fee, often paired with an alarm system) and they come with a preselected collection of devices the managing party guarantees work nicely together. This talk will explore how to reverse engineer these systems, and regain the granularity and robustness of control that open systems provide, while retaining the managed nature of the system.</p>
       <p class="bio">Mike is a local professional that has inexplicably found himself doing non-technical work during the day: working to bring innovation and architecture to the City of Winnipeg. This situation has created a burning need to do something, anything, technology related in his non-work time. To scratch the itch he co-founded Flying Fortress IT with Travis Friesen to bring cloud and security expertise to small and medium businesses, and co-organizes the Winnipeg AWS user group and monthly(-ish) Winnisec security meetup just to get out of the house.</p>
+    <p><a href="/slides/2019/Taking_Back_The_Home_Mike_Himbeault.pdf">Presentation slides (PDF)</a></p>
     </div>
   </div>
 
@@ -382,6 +388,7 @@ year: 2019
     <div class="col-lg-7">
       <p class="abstract">Back in the day, when purchasing a car, all you really had to worry about were safety ratings and cost. Today, vehicles are more complex and as much computer as they are machine. You've likely heard the horror stories of self driving cars getting hacked. Maybe that's made you fearful. But what about cars you have to drive yourself? With today's Bluetooh-equipped, dashcam-set-up, Internet connected vehicles, how much do we need to worry about security updates? Are our vehicles destined for deprecation long before the transmission goes?</p>
       <p class="bio">Sarah LaCroix is recent graduate working as an information security analyst. She is interested in how technology and security affect those who aren't technical and don't work in the industry. Sarah is eager to learn and level up her skills and knowledge.</p>
+    <p><a href="/slides/2019/Do_I_Need_To_Worry_About_Security_Updates_For_My_Car_Sarah_LaCroix.pdf">Presentation slides (PDF)</a></p>
     </div>
   </div>
 
@@ -396,6 +403,7 @@ year: 2019
       <p class="abstract">GraphQL is a data query language developed internally by Facebook in 2012 before being publicly released in 2015. It provides an alternative to REST and ad-hoc web service architectures. It is a fairly new language, but it is already being used on a lot of companies all over the world. As with every new language it brings pros and cons. The goal of this presentation is to present this language from a security perspective. We will understand how it differs from the current REST architecture and how attackers can exploit it with a few abuse case scenarios. We'll provide real-world examples of how to exploit GraphQL web applications using only free tools at your disposal. If you are a developer, pentester or bounty hunter and would like to know more about the benefits and the risks of using GraphQL on your application, this talk is for you!</p>
       <p class="bio">Saulo is a BS in Computer Science with +5 years of experience in the information security field. Saulo developed strong business, coding, and infrastructure deployment skills while working on own side projects like Shellter Labs, a project he Co-Founded that is an online platform for practicing and training information security.</p>
       <p class="bio">He also competed in many coding and security contests, both alone and as a team captain, being 2 times South America's 1ºst place in Global Cyberlympics.</p>
+    <p><a href="/slides/2019/RestInPeace_ExploitingGraphQL_SauloHachem.pdf">Presentation slides (PDF)</a></p>
     </div>
   </div>
 
