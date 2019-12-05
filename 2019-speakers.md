@@ -265,6 +265,7 @@ year: 2019
     <div class="col-lg-7">
       <p class="abstract">There is never enough budget or time to solve every security problem an organization faces. However, there are a lot of free or inexpensive tactics and techniques that every organization can leverage to make it harder for attackers to enter your environment. This presentation is a collection of basic tips and tricks learned from security professionals around the world These are tactics that either stop attackers in their tracks, or make it more difficult for them to succeed. You’ll walk away with actionable tips to fill your security gaps and help reduce your attack surface.</p>
       <p class="bio">Robert Wagner is a security professional with 15+ years of InfoSec experience. He is a co-founder of the “Hak4Kidz” charity and a co-founder of BurbSecCon in Chicago, and is on the Board of Directors of the ISSA Chicago Chapter.</p>
+      <p><a href="/slides/2019/Defense_on_a_Budget_Robert_Wagner.pdf">Presentation slides (PDF)</a></p>
     </div>
   </div>
 
