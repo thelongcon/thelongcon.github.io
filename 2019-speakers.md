@@ -239,6 +239,7 @@ year: 2019
       <p class="bio">Katherine is a LAN Administrator whose (current) favourite past time is digging into Windows Internals and playing with PowerShell. She is Manitoba UNIX User Group board member (2010-current), has a Network Technology, CCNA (Hons.) from RRC, and holds a GIAC Certified Windows Security Administrator (GCWN) Certification.</p>
     <p><a href="/slides/2019/Rad_Omens_Katherine_Scrupa.pdf">Presentation slides (PDF)</a></p>
     </div>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/7EgDqyPpmwQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
 
   <div class="row" style="padding-top:3em;" id="richard-frovarp">
@@ -253,6 +254,7 @@ year: 2019
       <p class="bio">Richard Frovarp is a principal software engineer at North Dakota State University. There he focuses on identity and access management, federated authentication, and integrating a wide variety of systems together.</p>
     <p><a href="/slides/2019/Capturing_WPA2_Enterprise_Credentials_Richard_Frovarp.pdf">Presentation slides (PDF)</a></p>
     </div>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/FcpoF8lrbWM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
 
   <div class="row" style="padding-top:3em;" id="robert-wagner">
@@ -267,6 +269,7 @@ year: 2019
       <p class="bio">Robert Wagner is a security professional with 15+ years of InfoSec experience. He is a co-founder of the “Hak4Kidz” charity and a co-founder of BurbSecCon in Chicago, and is on the Board of Directors of the ISSA Chicago Chapter.</p>
       <p><a href="/slides/2019/Defense_on_a_Budget_Robert_Wagner.pdf">Presentation slides (PDF)</a></p>
     </div>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/wVIj9TBSxnU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
 
   <div class="row" style="padding-top:3em;" id="mike-saunders">
@@ -281,6 +284,7 @@ year: 2019
       <p class="bio">Mike Saunders is a principal consultant for Red Siege.  He has over 25 years of experience in IT and security and has worked in the ISP, financial, insurance, and agribusiness industries. He has held a variety of roles in his career including system and network administration, development, and security architect. Mike been performing penetration tests for nearly a decade. Mike is an experienced speaker and has spoken at DerbyCon, BSides MSP, BSides Winnipeg / The Long Con, BSides KC, WWHF, and the NDSU Cyber Security Conference. He has participated multiple times as a member of NCCCDC Red Team.</p>
       <p><a href="/slides/2019/Assumed_Breach_Mike_Saunders.pdf">Presentation slides (PDF)</a></p>
     </div>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/80n6kuDc4kI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
 
   <div class="row" style="padding-top:3em;" id="william-kempan">
@@ -295,6 +299,7 @@ year: 2019
       <p class="bio">William has been in the Information Security field for 7 years. William worked as an Information Security Specialist at MTS conducting penetration testing, vulnerability management and risk assessments. He then moved to Great-West Life to specialize in penetration testing and red teaming. Most recently he started as a Security Engineer on Amazon's Red Team out of Seattle, WA.</p>
       <p class="bio">William has a Bachelor of Computer Science from the University of Manitoba and has obtained his Offensive Security Certified Professional (OSCP) and Offensive Security Certified Expert (OSCE) certifications. </p>
     </div>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/nRa8vLI7zwc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
 
   <div class="row" style="padding-top:3em;" id="robert-and-troy">
@@ -309,6 +314,7 @@ year: 2019
       <p class="bio">Rob Keizer likes coming up with interesting solutions to problems that don’t exist. If he isn’t thinking of how to use something in a way it wasn’t designed, he’s playing piano or helping run a startup company.</p>
       <p class="bio">Troy Denton is a Computer Engineer that loves open source, making nifty circuits, and playing guitar.</p>
     </div>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/HITVYClZmqs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
 
   <div class="row" style="padding-top:3em;" id="magno-logan">
@@ -323,6 +329,7 @@ year: 2019
       <p class="bio">Magno (Logan) Rodrigues is an Information Security Specialist focused on Application Security, WAF, DevSecOps and Secure Coding. He was the founder of the OWASP Paraíba Chapter and the JampaSec Security Conference in Brazil. And a speaker at many conferences such as the RoadSecSP, BSidesSP, MindTheSec RJ, OWASP App Sec Latam, BHack and Just4Meeting in Portugal. Studied Security and Computer Forensics at TC3 in New York, US. His current focus is Application Security, WAF, Secure Coding and DevSecOps and how to properly empower the developers to perform secure coding and to add the right security tools into the development pipeline that can bring value to the business and be able to catch vulnerabilities even before they are committed. He has the following certifications: CompTIA CySA+, Security+, Cloud Essentials, EXIN Secure Programming and Ethical Hacking. He is also a CompTIA SME and is pursuing his Pentest+ and OSCP certifications.</p>
     <p><a href="/slides/2019/Web_Hacking_101_Magno_Logan.pdf">Presentation slides (PDF)</a></p>
     </div>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/g2aJbuzngXQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
 
   <div class="row" style="padding-top:3em;" id="matthew-southworth">
@@ -336,6 +343,7 @@ year: 2019
       <p class="abstract">For the past year, Praetorian and Priceline have been working together to conduct a series of Purple Team exercises to improve Priceline’s Detection and Response. These exercises utilized tactics, techniques, and procedures (TTPs) from the MITRE ATT&CK framework to baseline Priceline’s telemetry and analysis capabilities. Praetorian leveraged their recently released Metasploit Framework fork to rapidly automate basic TTPs before working cooperatively with Priceline for more advanced tests. Priceline then did the heavy lift of ingesting that data, prioritizing shortcomings, and making strategic and tactical decisions to improve their security program. Through the use of ATT&CK, they were able to trace specific lines of effort back to various TTPs. This traceability helped provide support for various decisions as well as facilitated with prioritization. ATT&CK also provided a common taxonomy when working with vendors when gaps in detection were identified. Finally, ATT&CK helped Priceline track improvements through later rounds of testing to help measure the effectiveness of various improvements.</p>
       <p class="bio">Matt Southworth is the VP, Security Engineering at Priceline. He leads the security team to reduce risk, improve customer trust, and fight the bad guys coming after our data. Although he lives outside of New York, he finds himself in Winnipeg several times a year. He loves coffee.</p>
     </div>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/RsMaTXV8LKE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
 
   <div class="row" style="padding-top:3em;" id="travis-friesen">
@@ -350,6 +358,7 @@ year: 2019
       <p class="bio">Travis misspent 10 years studying computers and network security at the University of Manitoba before being unleashed on an unsuspecting world. After spending some time writing autopilot software for UAVs, he settled into a career in InfoSec, working in the education sector and founding Flying Fortress IT, a firm which specializes in providing small and medium businesses with security and cloud infrastructure expertise.</p>
     <p><a href="/slides/2019/Antivirus_Evasion_Techniques_and_Tools_Travis_Friesen.pdf">Presentation slides (PDF)</a></p>
     </div>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/qn3tN74bWeA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
 
   <div class="row" style="padding-top:3em;" id="mike-himbeault">
@@ -364,6 +373,7 @@ year: 2019
       <p class="bio">Mike is a local professional that has inexplicably found himself doing non-technical work during the day: working to bring innovation and architecture to the City of Winnipeg. This situation has created a burning need to do something, anything, technology related in his non-work time. To scratch the itch he co-founded Flying Fortress IT with Travis Friesen to bring cloud and security expertise to small and medium businesses, and co-organizes the Winnipeg AWS user group and monthly(-ish) Winnisec security meetup just to get out of the house.</p>
     <p><a href="/slides/2019/Taking_Back_The_Home_Mike_Himbeault.pdf">Presentation slides (PDF)</a></p>
     </div>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/2K8RGMCdqeM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
 
   <div class="row" style="padding-top:3em;" id="chris-johnson">
@@ -377,6 +387,7 @@ year: 2019
       <p class="abstract">emacspeak is a free and open source speech interface converting audio signals into typed text. This leads to security flaws when in a group setting, or near any device with an audio in port. Does a method of obfuscation exist such that minimal additional effort is required yet my data remains uncompromised?</p>
       <p class="bio">Chris Johnson is the IT manager of ParIT Worker Co-Op, Security Analyst of KrikIT Software Solutions, and the survivor of a bunch of strokes. He enjoys examining potential security flaws of devices when handled by users outside of the typical sensory scopes. Chris is also a Capricorn who likes long walks in the beach, chess puzzles, and laying around on the couch for longer than anybody ever should</p>
     </div>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/xEkXHFn9SjE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
 
   <div class="row" style="padding-top:3em;" id="sarah-lacroix">
@@ -391,6 +402,7 @@ year: 2019
       <p class="bio">Sarah LaCroix is recent graduate working as an information security analyst. She is interested in how technology and security affect those who aren't technical and don't work in the industry. Sarah is eager to learn and level up her skills and knowledge.</p>
     <p><a href="/slides/2019/Do_I_Need_To_Worry_About_Security_Updates_For_My_Car_Sarah_LaCroix.pdf">Presentation slides (PDF)</a></p>
     </div>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/FcRN0ZdVjN4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
 
   <div class="row" style="padding-top:3em;" id="saulo-hachem">
@@ -406,6 +418,7 @@ year: 2019
       <p class="bio">He also competed in many coding and security contests, both alone and as a team captain, being 2 times South America's 1ºst place in Global Cyberlympics.</p>
     <p><a href="/slides/2019/RestInPeace_ExploitingGraphQL_SauloHachem.pdf">Presentation slides (PDF)</a></p>
     </div>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/f4L10ixKih4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
 
 
@@ -420,4 +433,5 @@ year: 2019
       <p class="abstract">I wrote a tool to discover exports on NFS shares, capture file system data, and scan the drives for sensitive files an content. This talk will go over the tool and provide some recommendations for securing NFS.</p>
       <p class="bio">Tim Jensen is a Senior Penetration Tester with BSI AppSec with many years of experience in Information Security.  He holds OSCP and CISSP  certifications and has expertise in many aspects of ethical hacking, penetration testing, and security operations.</p>
     </div>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/JXGT8GkfKvE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
