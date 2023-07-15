@@ -1,7 +1,7 @@
 ---
 layout: default
-permalink: /sponsors
-year: 2019
+permalink: /sponsors/
+year: 2023
 ---
 
 <div class="row marketing">
