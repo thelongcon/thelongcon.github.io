@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /speakers/
+permalink: /2020/speakers/
 year: 2020
 ---
 
