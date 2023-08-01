@@ -14,6 +14,18 @@ year: 2023
     to share this link to anyone you think would do a great job! If you have
     any questions, email the organizers at <a href="mailto:organizers@thelongcon.ca">organizers@thelongcon.ca</a>.
 
+    <p>We are looking for presentations that talk about infosec tools, specific exploits,
+    legal issues, privacy, defensive and offensive measures, cryptography, password cracking,
+    reverse engineering, lockpicking, and software-defined radio. If your presentation doesn't fit
+    into any of those categories, pitch it anyway! Topics that “aren’t infosec” are often interesting
+    and appropriate for our audience. We will advise you if we think your presentation needs to be
+    adjusted before we consider it, and offer recommendations. We especially encourage you to submit
+    to this CFP if you’ve never presented at a conference before. You will find the audience is very supportive.</p>
+
+    <p>The conference runs a single speaking track with presentations expected to be
+    20 minutes or 45 minutes, followed by a few minutes for Q&A, but the format can be flexible if you have some ideas, contact
+    <a href="mailto:organizers@thelongcon.ca">organizers@thelongcon.ca</a> if you have an idea!</p>
+
     <p>If you would like to receive information about speaking at future versions of the The Long Con, please <a href="https://thelongcon.us19.list-manage.com/subscribe?u=c036f4bbea51bd9cd747e89bb&id=13bc529231">sign up here!</a></p>
   </div>
 </div>
