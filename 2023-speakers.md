@@ -26,6 +26,8 @@ year: 2023
     20 minutes or 45 minutes, followed by a few minutes for Q&A, but the format can be flexible if you have some ideas, contact
     <a href="mailto:organizers@thelongcon.ca">organizers@thelongcon.ca</a> if you have an idea!</p>
 
+    <p>Call for Presentations closes September 15th, 2023.</p>
+
     <p>If you would like to receive information about speaking at future versions of the The Long Con, please <a href="https://thelongcon.us19.list-manage.com/subscribe?u=c036f4bbea51bd9cd747e89bb&id=13bc529231">sign up here!</a></p>
   </div>
 </div>
