@@ -12,7 +12,7 @@ year: 2023
 
     <p>If you're interested in being a speaker, sign up here <a href="https://forms.gle/LB5ieBuf5HnBtoKY6">https://forms.gle/LB5ieBuf5HnBtoKY6</a>. Feel free
     to share this link to anyone you think would do a great job! If you have
-    any questions, email the organizers at <a href="mailto:organizers@thelongcon.ca">organizers@thelongcon.ca</a>.
+    any questions, email the organizers at <a href="mailto:organizers@thelongcon.ca">organizers@thelongcon.ca</a>.</p>
 
     <p>We are looking for presentations that talk about infosec tools, specific exploits,
     legal issues, privacy, defensive and offensive measures, cryptography, password cracking,
