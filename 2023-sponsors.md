@@ -26,6 +26,7 @@ year: 2023
     <h3>Gold</h3>
     <a href="https://www.canadalife.com/" target="_blank"><img class="sponsorlogo" src="/logos/canada_life.png"/></a>
 
+    <a href="https://www.trellix.com/en-us/index.html" target="_blank"><img class="sponsorlogo" src="/logos/trellix.png"/></a>
       
     <h3>Silver</h3>
     <a href="https://campfire.technology" target="_blank"><img class="sponsorlogo" style="max-width:300px" src="/logos/campfire_logo_transparent.svg"/></a>
