@@ -30,6 +30,8 @@ year: 2023
       
     <h3>Silver</h3>
     <a href="https://campfire.technology" target="_blank"><img class="sponsorlogo" style="max-width:300px" src="/logos/campfire_logo_transparent.svg"/></a>
+
+    <a href="https://www.reconfigurable.ca/" target="_blank"><img class="sponsorlogo" style="max-width:500px" src="/logos/reconfigurable.png"/></a>
     
   </div>
 </div>
