@@ -4,30 +4,34 @@ permalink: /speakers/
 year: 2023
 ---
 
-<div class="row marketing">
-  <div class="col-lg-12">
-    <h2>Speakers</h2>
+## Speakers
 
-    <p>Our Call for Presentations for The Long Con 2023 is now open.</p>
+Saturday, November 4th, 2023
 
-    <p>If you're interested in being a speaker, sign up here <a href="https://forms.gle/LB5ieBuf5HnBtoKY6">https://forms.gle/LB5ieBuf5HnBtoKY6</a>. Feel free
-    to share this link to anyone you think would do a great job! If you have
-    any questions, email the organizers at <a href="mailto:organizers@thelongcon.ca">organizers@thelongcon.ca</a>.</p>
+|     Time      |                    Event                    |
+| ------------- | ------------------------------------------- |
+| 11:00 - 11:30 | Registration                                |
+| 11:30 - 12:20 | SaaS security basics on a shoestring budget <br/> GlitchWitch |
+| 12:30 - 12:50 | Unlocking a Secure Future via Test-Driven Delivery <br/> Ole |
+| 13:00 - 14:00 | Catered Lunch Break <br/> Primo’s Deli|
+| 14:00 - 14:50 | How SSO works <br/>Richard Frovarp |
+| 15:00 - 15:50 | Roll for Stealth: Intro to AV & EDR Evasion <br /> Mike Saunders |
+| 16:00 - 16:30| Coffee Break |
+| 16:30 - 17:20 | Adventures in Agricultural IoT: Tales of sensor networks, industrial control systems, and grain monitoring <br /> Jared |
+| 17:30 - 17:50 | The security implications of Ansible scared me <br />Mark Jenkins |
 
-    <p>We are looking for presentations that talk about infosec tools, specific exploits,
-    legal issues, privacy, defensive and offensive measures, cryptography, password cracking,
-    reverse engineering, lockpicking, and software-defined radio. If your presentation doesn't fit
-    into any of those categories, pitch it anyway! Topics that “aren’t infosec” are often interesting
-    and appropriate for our audience. We will advise you if we think your presentation needs to be
-    adjusted before we consider it, and offer recommendations. We especially encourage you to submit
-    to this CFP if you’ve never presented at a conference before. You will find the audience is very supportive.</p>
+Sunday, November 5th, 2023
 
-    <p>The conference runs a single speaking track with presentations expected to be
-    20 minutes or 45 minutes, followed by a few minutes for Q&A, but the format can be flexible if you have some ideas, contact
-    <a href="mailto:organizers@thelongcon.ca">organizers@thelongcon.ca</a> if you have an idea!</p>
-
-    <p>Call for Presentations closes September 15th, 2023.</p>
-
-    <p>If you would like to receive information about speaking at future versions of the The Long Con, please <a href="https://thelongcon.us19.list-manage.com/subscribe?u=c036f4bbea51bd9cd747e89bb&id=13bc529231">sign up here!</a></p>
-  </div>
-</div>
+| Time | Event |
+| 11:00 - 11:20 | Transparency in Security <br/>Paul Harrison |
+| 11:30 - 12:20 | Badgelife Creator 101: Making Your First Electronic Badge <br/> Matir |
+| 12:30 - 12:50 | Improving incident response with red team tactics <br/> William Kempan |
+| 13:00 - 14:00 | Catered Lunch Break <br/> Primo’s Deli |
+| 14:00 - 14:20 | Logging: you're not doing it enough <br/>Travis Friesen |
+| 14:30 - 14:50 | SYSMON + ATT&CK to feed your SIEM <br/> Raph |
+| 15:00 - 15:20 | Your Guide to Dealing with IT Risk/Compliance/Audit/etc<br/>Sarah LaCroix |
+| 15:30 - 15:50 | The ancestry of Kubernetes<br/>Mike Himbeault |
+| 16:00 - 16:30 | Coffee Break |
+| 16:30 - 17:20 | Reverse-Engineering & Re-Purposing Smart Devices<br/>William F |
+| 17:30 - 17:50 | Pledge, and why you should use it<br/>Robert Keizer |
+| 17:50 - 18:00 | Closing Ceremonies |

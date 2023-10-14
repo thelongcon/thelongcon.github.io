@@ -1,0 +1,11 @@
+---
+---
+@use "bootstrap.min.css";
+@use "bootstrap-theme.min.css";
+table {
+  @extend .table;
+  @extend .table!optional;
+  @extend .table-bordered!optional;
+  @extend .table-striped!optional;
+  @extend .table-condensed!optional;
+}
