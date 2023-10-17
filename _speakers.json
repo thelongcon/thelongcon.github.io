@@ -1,6 +1,6 @@
 {
   "days": {
-    "Saturday, November 2nd, 2023": [
+    "Saturday, November 4th, 2023": [
       {
         "time_label": "11:00 - 11:30",
         "event_label": "Registration"
@@ -62,7 +62,7 @@
         "event_link_href": "ansible"
       }
     ],
-    "Sunday, November 3rd, 2023": [
+    "Sunday, November 5th, 2023": [
       {
         "speaker_name": "Raph",
         "bio": "In IT for 20+ years, Cyber for the last 5 or 6, I do threat detection engineering!",
