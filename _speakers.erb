@@ -59,8 +59,6 @@
       <p class="bio"><%= speaker_entry['bio'] %></p>
       <% if speaker_entry.key?('youtube_link') %>
         <iframe width="560" height="315" src="https://www.youtube.com/embed/<%= speaker_entry['youtube_link'] %>" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      <% else %>
-        <p>Sorry, no video recording for this talk is available.</p>
       <% end %>
     </div>
   </div>
