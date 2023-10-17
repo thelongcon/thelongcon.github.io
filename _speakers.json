@@ -47,7 +47,7 @@
       },
       {
         "speaker_name": "Jared Bater",
-        "bio": "Network Nerd",
+	"bio": "Network Nerd",
         "abstract": "Deploying LoRaWAN and cellular devices in remote location to service agricultural clients has some unexpected challenges.  From high delay/unreliable carriers to extremes in temperatures and power to  retrofitting legacy industrial equipment, there are some unique deployment and management challenges.  Come along with me as I share problems and some solutions in the world of IoT in the world of Big Ag.",
         "event_label": "Adventures in Agricultural IoT: Tales of sensor networks, industrial control systems, and grain monitoring.",
         "time_label": "16:30 - 17:20",
@@ -81,7 +81,7 @@
       },
       {
         "speaker_name": "William Kempan",
-        "bio": "Could you copy/paste the one from last time",
+        "bio": "William has been in the Information Security field for 10 years. William worked as an Information Security Specialist at MTS conducting penetration testing, vulnerability management and risk assessments. He then moved to Great-West Life to specialize in penetration testing and red teaming. Most recently he started as a Security Engineer on Amazon's Red Team out of Seattle, WA.\n\nWilliam has a Bachelor of Computer Science from the University of Manitoba and has obtained his Offensive Security Certified Professional (OSCP) and Offensive Security Certified Expert (OSCE) certifications.",
         "abstract": "How do Red Teams continually improve the effectiveness of Blue teams? Watch this talk to find out! This talk deep dives into how Red and Blue teams help improve each other through doing Offensive Security exercises. We cover the full life cycle from what an offensive security exercise is, how we plan, execute and measure them. This talk is targeted at giving all everyone a behind the scenes look at how incident response and offensive teams operate.",
         "event_label": "Improving incident response with red team tactics",
         "time_label": "12:30 - 12:50",
