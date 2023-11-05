@@ -112,7 +112,7 @@
         "bio": "Ask Mike about math, AWS, photography, science, space, or dad jokes, and you'll found someone who will to talk for a lot longer than is socially acceptable, or respectful. He's got no formal training in his day job, and pretends, at length, to be good at it. Ask him about math.... I dare you.",
         "abstract": "There are two types of multitasking - I'll let you guess what they are - but when we invented those, we started down a path that inexorably led us to the worst possible outcome. And then after that, Kubernetes. This talk discusses how we got here, why we should have made a left, not a right, maybe, back at that old house with angry badgers in it, and why Kubernetes is what it is, isn't what it isn't, and where we might end up next.",
         "event_label": "The ancestry of Kubernetes.",
-        "time_label": "15:30 - 15:50",
+        "time_label": "15:00 - 15:50",
         "event_link_href": "kubernetes"
       },
       {

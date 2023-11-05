@@ -191,7 +191,7 @@
           </tr>
           
           <tr>
-            <td>15:30 - 15:50</td>
+            <td>15:00 - 15:50</td>
             
               <td>
                 <a href="#kubernetes">The ancestry of Kubernetes.</a>
