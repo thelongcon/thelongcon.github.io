@@ -57,6 +57,11 @@
     <div class="col-lg-7">
       <p class="abstract"><%= speaker_entry['abstract'] %></p>
       <p class="bio">Bio: "<%= speaker_entry['bio'] %>"</p>
+      <% if speaker_entry.key?('slides_link') %>
+        <p>
+          <a target="_blank" href="/slides/<%= speaker_entry['slides_link'] %>">Slides</a>
+        </p>
+      <% end %> 
       <% if speaker_entry.key?('youtube_link') %>
         <iframe width="560" height="315" src="https://www.youtube.com/embed/<%= speaker_entry['youtube_link'] %>" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       <% end %>
