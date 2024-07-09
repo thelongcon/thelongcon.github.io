@@ -14,7 +14,7 @@
 
   <div class="row" id="saturday">
     <div class="col-lg-12">
-      <h3>Saturday, November 4th, 2023</h3>
+      <h3>Saturday, November 2nd, 2019</h3>
       <table class="table table-bordered table-striped table-condensed">
         <thead>
           <tr>

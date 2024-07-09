@@ -1,6 +1,6 @@
 ---
-layout: default
-permalink: /sponsors/
+layout: sponsors-archived
+permalink: /2023/sponsors/
 year: 2023
 ---
 
