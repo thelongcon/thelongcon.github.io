@@ -3,6 +3,18 @@ The Long Con website
 
 This site uses Jekyll and is served by Github pages, and it available at https://thelongcon.ca
 
+Site layout
+-----------
+
+### Sponsors
+
+The current year sponsors page is driven by the file `_data/sponsors.yml`. This also drives the "Made possible by" on
+the landing page.
+
+### Speakers
+
+The current year speakers page is generated from `_speakers.json` run through the `_speakers.erb` template file.
+
 
 Local development
 -----------------
