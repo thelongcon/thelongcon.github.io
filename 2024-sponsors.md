@@ -16,6 +16,10 @@ year: 2024
     <p>If you would like to sponsor The Long Con, please review our <a href="/TLC-2024-Sponsorship-Package.pdf">sponsor package here</a>, and <a href="/contact">contact us</a>!</p>
   </div>
   <div class="col-lg-12">
+    <h2>Platinum Sponsors</h2>
+    <a href="https://glitchsecure.com/" target="_blank"><img class="sponsorlogo" style="max-width:600px" src="/logos/glitchsecure-black.svg" /></a>
+  </div>
+  <div class="col-lg-12">
     <h2>Silver Sponsors</h2>
     <a href="https://ironspear.ca/" target="_blank"><img class="sponsorlogo" src="/logos/ironspear.png" /></a>
   </div>
