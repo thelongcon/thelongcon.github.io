@@ -3,6 +3,12 @@ layout: with-jumbotron
 permalink: /
 ---
 
+
+<style>
+  img.sponsorlogo { max-height:200px; max-width:600px; display:inline-block; padding:20px; }
+  a.sponsortext { font-size:30px; font-weight:bold; display:inline-block; padding:20px }
+</style>
+
 <div class="row marketing">
   <div class="col-lg-6">
     <h4>Who?</h4>
@@ -12,5 +18,14 @@ permalink: /
   <div class="col-lg-6">
     <h4>What?</h4>
     <p>The Long Con is an information security conference by the community for the community. It follows a traditional conference format but encourages participation, discussion, and collaboration.</p>
+  </div>
+
+  <div class="col-lg-12">
+  <h4>Made possible by</h4>
+  {% for sponsor_group in site.data.sponsors %}
+    {% for sponsor in sponsor_group.sponsors %}
+    <a href="{{ sponsor.link }}" target="_blank"><img class="sponsorlogo" src="/logos/{{ sponsor.logo }}" /></a>
+    {% endfor %}
+  {% endfor %}
   </div>
 </div>

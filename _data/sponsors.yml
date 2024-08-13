@@ -1,0 +1,11 @@
+- level: Platinum
+  sponsors:
+    - name: GlitchSecure
+      logo: glitchsecure-black.svg
+      link: https://glitchsecure.com
+- level: Silver
+  sponsors:
+    - name: Iron Spear
+      logo: ironspear.png
+      link: https://ironspear.ca
+
