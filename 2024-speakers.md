@@ -10,7 +10,7 @@ year: 2024
 
     <p>Our Call for Presentations for The Long Con 2024 is now open!</p>
 
-    <p>If you're interested in being a speaker, sign up here <a href="https://forms.gle/FCmVVf4Qm39ZRnsF6">https://forms.gle/LB5ieBuf5HnBtoKY6</a>. Feel free
+    <p>If you're interested in being a speaker, sign up here <a href="https://forms.gle/wASRmAKQ4TNpxhCM7">https://forms.gle/wASRmAKQ4TNpxhCM7</a>. Feel free
     to share this link to anyone you think would do a great job! If you have
     any questions, email the organizers at <a href="mailto:organizers@thelongcon.ca">organizers@thelongcon.ca</a>.</p>
 
