@@ -10,4 +10,4 @@ script_directory=$(realpath $(dirname $0))
 docker run --network=host --rm \
 	-v "${script_directory}":/site \
 	longcon-jekyll-builder \
-	jekyll serve --watch --source /site
+	jekyll serve --watch --livereload --source /site
