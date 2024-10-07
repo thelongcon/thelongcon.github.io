@@ -19,7 +19,13 @@ year: 2024
   <div class="col-lg-12">
     <h2>{{ sponsor_group.level }} Sponsors</h2>
     {% for sponsor in sponsor_group.sponsors %}
-    <a href="{{ sponsor.link }}" target="_blank"><img class="sponsorlogo" src="/logos/{{ sponsor.logo }}" /></a>
+    <a href="{{ sponsor.link }}" target="_blank">
+      {% if sponsor.logo %}
+      <img class="sponsorlogo" src="/logos/{{ sponsor.logo }}" />
+      {% else %}
+      <p style="font-size: 4rem">{{ sponsor.name }}</p>
+      {% endif %}
+    </a>
     {% endfor %}
   </div>
   {% endfor %}

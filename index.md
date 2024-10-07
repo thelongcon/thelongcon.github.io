@@ -22,9 +22,16 @@ permalink: /
 
   <div class="col-lg-12">
   <h4>Made possible by</h4>
-  {% for sponsor_group in site.data.sponsors %}
+  {% for sponsor_group
+   in site.data.sponsors %}
     {% for sponsor in sponsor_group.sponsors %}
-    <a href="{{ sponsor.link }}" target="_blank"><img class="sponsorlogo" src="/logos/{{ sponsor.logo }}" /></a>
+    <a href="{{ sponsor.link }}" target="_blank">
+      {% if sponsor.logo %}
+      <img class="sponsorlogo" src="/logos/{{ sponsor.logo }}" />
+      {% else %}
+      <p style="font-size: 4rem">{{ sponsor.name }}</p>
+      {% endif %}
+    </a>
     {% endfor %}
   {% endfor %}
   </div>

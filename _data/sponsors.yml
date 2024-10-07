@@ -3,9 +3,20 @@
     - name: GlitchSecure
       logo: glitchsecure-black.svg
       link: https://glitchsecure.com
+- level: Gold
+  sponsors:
+    - name: Payworks
+      logo: payworks.png
+      link: https://payworks.ca
 - level: Silver
   sponsors:
+    - name: CANARIE
+      logo: canarie.png
+      link: https://canarie.ca
     - name: Iron Spear
       logo: ironspear.png
       link: https://ironspear.ca
-
+- level: Bronze
+  sponsors:
+    - name: Paul Harrison / DevSecOops
+      link: https://devsecoops.ca
