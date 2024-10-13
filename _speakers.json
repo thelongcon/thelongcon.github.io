@@ -1,169 +1,181 @@
 {
   "days": {
-    "Saturday, November 4th, 2023": [
+    "Saturday, November 2nd, 2024": [
       {
-        "time_label": "11:00 - 11:30",
-        "event_label": "Registration"
+        "time_label": "10:15 - 11:00",
+        "event_label": "Door open + registration"
       },
       {
-        "time_label": "11:30 - 12:20",
+        "event_label": "Real-world Vulnerabilities (and how to exploit them)",
         "event_link_href": "glitchwitch",
-        "event_label": "SaaS security basics on a shoestring budget",
         "speaker_name": "GlitchWitch",
-        "abstract": "As a recent founder who has spent a lot of the last year helping other founders with their security, I've come to realise that there is a lot of mystery and basic knowledge gap when it comes to keeping your product and infrastructure secure that the average technical founder or small team simply doesn't have a grasp on.\n\nIn this talk I'll dive into many of the security issues SaaS and tech enabled companies tend to encounter as well as how to prevent and detect them without spending $$$$$.\n\n From the OWASP top 10, SAST tooling, compliance frameworks, and even building out a VDP and shutting down \"beg\" bounty hunters, I'll walk through a check list of everything a company can do to increase their security posture without dramatically increasing spend.\n\n",
-        "bio": "GlitchWitch is a highly skilled and passionate hacker with a deep technical background.  With a demonstrated passion for fortifying the digital realm, they are constantly pushing the boundaries to improve web security and develop cutting-edge security automation solutions.  GlitchWitch currently works as the Founder & Principal Security Consultant of GlitchSecure, a Winnipeg based cybersecurity company developing continuous security testing software.",
-	"youtube_link": "buV3TgZeP2g",
-	"slides_link": "2023/SaaS Security Basics  on a Shoestring Budget.pdf"
+        "time_label": "11:00 - 11:30",
+        "bio": "GlitchWitch is a highly skilled and passionate hacker with a deep technical background. With a demonstrated passion for fortifying the digital realm, they are constantly pushing the boundaries to improve web security and develop cutting-edge security automation solutions. GlitchWitch currently works as the Founder & CEO of GlitchSecure, a growing Winnipeg based cybersecurity company developing continuous security testing software.",
+        "abstract": "Is your software secure? Every single day companies ship new code, features, and products that people entrust their data with. Yet so many of those applications remain live for years without ever being professionally tested by penetration testers.\n\nAs hackers, it's our job to uncover these flaws. Learn about some of the real-world (anonymized) vulnerabilities we've seen, how we exploited them, and the impact they would have had if malicious hackers had found them first."
       },
       {
-        "time_label": "12:30 - 12:50",
-        "event_link_href": "ole",
-        "event_label": "Unlocking a Secure Future via Test-Driven Delivery",
-        "speaker_name": "Oleksiy (Ole) Vasylyuk",
-        "abstract": "Is it secure? I'm asked this on a daily basis and I believe I might have a pragmatic answer. This submission introduces a refined approach to enhance security, quality, and consistency in solution delivery through Test-Driven Architecture (TDA).\n\nThe core challenge addressed is the prevalence of inconsistent and frequently overlooked security requirements, resulting in vulnerabilities, compliance issues, and business risks. Our solution centers around the systematic codification of security requirements within a publicly accessible repository, bolstered by an automated framework that seamlessly integrates with existing tools. The outcomes are clear: consistent inclusion of security requirements, proactive risk mitigation, expedited delivery, sustained visibility, and cost reduction.\n\nThe overarching vision extends beyond security alone. It envisions a world where all requirements, not just security, are captured in structured and testable formats. This framework can be universally applied, improving solutions across industries and domains. TDA, the proposed methodology, is the linchpin that defines solutions through tangible, testable requirements.\n\nThis submission delineates the essential building blocks of this transformative approach. Gherkin, a versatile language for documenting requirements, forms the foundation. Low-code tools cater to non-technical users, simplifying the process of requirement collection and management. Converters that transition Gherkin to Policy as Code (PaC) bridge the gap between requirements and implementation, while orchestration through CI/CD hooks ensures seamless integration into existing workflows.\n\nIn conclusion, TDA emerges as a potent methodology, capable of elevating solution quality, consistency, and security to unprecedented levels. I call upon the community to validate the approach. If it is sound, let us join forces in codifying security requirements and crafting the essential framework and tools. Collaboration is the key to realizing this transformative vision. Let us embark on this journey towards a secure, efficient, and harmonized future of solutions delivery.",
-        "bio": "With significant experience in cloud and on-premise solutions, Ole excels in blending waterfall and agile delivery. As an Enterprise Security Architecture leader for almost a decade, he navigated modern and traditional team dynamics, fostering a holistic approach to development. Ole's unique strength lies in bridging technical concepts and business needs. He seamlessly interacts with executives and engineering teams, ensuring mutual understanding.",
-	"youtube_link": "zlMsTgP9RnQ",
-	"slides_link": "2023/ole.pdf"
+        "event_label": "The Cyberpunks Guide to Attacking and Defending Generative AI",
+        "event_link_href": "gavin-klondike",
+        "speaker_name": "Gavin Klondike",
+        "time_label": "11:30 - 12:30",
+        "bio": "Gavin Klondike is a senior consultant and AI expert specializing in utilizing AI/ML to enhance individuals' abilities within their roles. He is a core contributor and lead author of two of the OWASP Top 10 for LLM Applications and part of the leadership board for the AI Village, a community of hackers and data scientists working to educate the world on the use and security of emerging AI technologies. He is also the founder of NetSec Explained, a blog and YouTube channel, where he shares intermediate to advanced level network security topics in an easy-to-understand way.\n\nWith a track record of successful presentations at major technical conferences, Gavin is known for his engaging and entertaining take on complex topics. He has a knack for breaking down intricate concepts into easily understandable terms, ensuring that everyone can grasp the fundamental ideas. His dynamic style ensures an inspiring session that will motivate and encourage teams as they begin to leverage AI tools in solving client needs.",
+        "abstract": "Ever since ChatGPT burst onto the scene, LLMs and generative AI have been all anyone can talk about. Today, more companies are putting generative AI into their products, regardless of whether or not it makes sense to do so. After which, your poor cybersecurity teams are left with the responsibility of both testing and defending this new technology without the training or experience in how to do such a task. In this talk, we'll provide a detailed look at the new threat landscape of generative AI applications and how to defend them. We'll review bug bounty submissions and cutting-edge techniques used against real companies over the past year. From there, we'll talk about how to mitigate these vulnerabilities to prevent them from slipping into your organization. By the end of the talk, you will walk away with a better understanding of generative AI security and what to look out for moving forward."
+      },
+      {
+        "event_label": "Lock it Down: IBM's Keys to Data Security Success",
+        "event_link_href": "mel",
+        "speaker_name": "Mel",
+        "time_label": "12:30 - 13:00",
+        "bio": "Melissa Gabriele is a seasoned cybersecurity expert with extensive experience in threat management, vulnerability assessment, and data security. She is a Technical Specialist for IBM Canada, overseeing security software services and solutions for Canada’s West Coast region. With a background in teaching cybersecurity intelligence and extensive expertise in threat hunting, forensic investigation, and risk management, Melissa is dedicated to helping organizations protect against digital threats through effective and innovative security strategies.",
+        "abstract": "IBM’s data security mission is centred on helping organizations safeguard their most critical asset: data. By focusing on data security posture management, data governance, and data detection and response, IBM enables businesses to navigate today’s complex cybersecurity landscape. At the heart of this mission is IBM’s Guardium suite, a leading data security platform designed to protect sensitive data across environments, including on-premises, cloud, and hybrid infrastructures. Guardium offers solutions for data discovery, real-time activity monitoring, vulnerability assessment, and encryption to prevent unauthorized access and data breaches. With features like automated compliance reporting, user behaviour analytics, and AI-driven insights, Guardium empowers organizations to not only secure their data but also streamline regulatory compliance, reduce operational risk, and maintain the integrity of their information systems."
       },
       {
         "time_label": "13:00 - 14:00",
-        "event_label": "Catered Lunch Break"
+        "event_label": "Catered lunch"
       },
       {
-        "time_label": "14:00 - 14:50",
-        "event_link_href": "how-sso",
-        "speaker_name": "Richard Frovarp",
-        "event_label": "How SSO Works",
-        "abstract": "SSO is everywhere, but how does it work? As a defender, what parts do you need to be worried about? This talk will cover CAS protocol, SAML 2, and potentially OIDC. We will learn what front channel and back channel communication is. We will see how this works in a multilateral federation.",
-        "bio": "Richard is a software engineer that primarily focuses on IAM (Identity and Access Management). He is involved with InCommon, a US based organization focusing on federation and IAM in higher education.",
-	"youtube_link": "t3uIEgUwkfA",
-	"slides_link": "2023/Long Con SSO Security Overview.pdf"
+        "event_label": "Threat Hunting, Tracking Your Adversaries",
+        "event_link_href": "brent-king",
+        "speaker_name": "Brent King",
+        "time_label": "14:00 - 14:30",
+        "bio": "Cybersecurity professional with expertise in technical sales, consulting and professional services.  My career has been primarily focused on building and managing IT infrastructure, specializing in mission critical network and security systems for large enterprises. Apart from my technical experience, I have extensive experience in managing technical teams and large complex projects.",
+        "abstract": "In an era where cyber threats are becoming increasingly sophisticated, proactive threat hunting has emerged as a critical strategy for organizations seeking to stay ahead of adversaries. Let's explore some of the methodologies and practices essential for effective cyber threat hunting and identifying and mitigating potential threats before they can cause harm.\n\nThe session will emphasize the importance of telemetry in the threat hunting process, detailing the various types of data—such as logs, network traffic, and endpoint activity—that are crucial for uncovering hidden threats.  Practical examples and case studies will illustrate how telemetry can be leveraged to track adversaries' movements, behaviors, and tactics.  The goal being how to integrate effective threat hunting methodologies with comprehensive telemetry to enhance their organization's security posture and resilience against cyber threats."
       },
       {
-        "time_label": "15:00 - 15:50",
-        "event_link_href": "roll-stealth",
-        "speaker_name": "Mike Saunders",
-        "event_label": "Roll for Stealth: Intro to AV & EDR Evasion",
-        "abstract": "Evading modern AV & EDR can seem daunting and near impossible to the uninitiated. If the idea of trying to get a payload past these defences seems unattainable or too 'l337', this talk is for you! I'll cover basic concepts and tools you can use to start evading detection and get payloads running.",
-        "bio": "Mike Saunders (@hardwaterhacker) is Red Siege Information Security's Principal Consultant and lead Red Team Operator.",
-	"youtube_link": "WL3--hRFImw",
-	"slides_link": "2023/REDSIEGE_MIKESAUNDERS_RollForStealth.pdf"
+        "event_label": "Networking I wish Security people understood",
+        "event_link_href": "adam-thompson",
+        "speaker_name": "Adam Thompson",
+        "time_label": "14:30 - 15:30",
+        "bio": "Engineering drop-out, Programmer, LAN Admin, DBA, Tech Support Manager, Software Architect, Product Manager, Network Operator, Network Architect, Conference Organizer, Amateur Musician, Autistic + ADHD.  Having done so many things means knowledge from other domains informs the domain I'm working in at any time; I also speak multiple tech dialects and can translate between groups.",
+        "abstract": "Far too often, security policies deal with networking incorrectly, inefficiently, expensively, and even hazardously due to a lack of either knowledge or understanding.  No-one can fix all of that in one talk, but I CAN provide a baseline of how it's supposed to work, cover common ways things can be broken, and where to apply Hanlon's Razor."
       },
       {
-        "event_label": "Coffee Break",
-        "time_label": "16:00 - 16:30"
+        "event_label": "Zeroconf Networking - Abuses, Implementations, and Other Malarkey",
+        "event_link_href": "david-dyck",
+        "speaker_name": "David Dyck",
+        "time_label": "15:30 - 16:00",
+        "bio": "Hi, I'm David Dyck!\n\nProfessionally I run the vulnerability management and penetration testing services at Security Resource Group (SRG), and I've been interested in the security field since I was a young teenager. I have a major degree in Linguistics and in Computer Science, and a minor in German (but don't try to speak German to me, I'll just embarrass myself!)\n\nPersonally, I avoid computers and enjoy punishing myself with manual labour and farm work, reading a good book, or reading about Linguistics.",
+        "abstract": "Zeroconf is a set of protocols and standards meant to create a sort of \"plug n play\" experience for networked devices and network services. This can be achieved through a combination of many different protocols, though primarily three. Namely, mDNS (RFC6762), DNS-SD (RFC6763), and Link-Local Addressing (RFC3927) make up the bulk of Zeroconf implementations.\n\nIn this talk, we'll have fun together imagining some potential abuses of these protocols, look at some proofs of concept, and notice some interesting things about specific implementations along the way. Expect no zero-days -- In fact, I expect all of these have been thought of before -- but instead a casual meandering through some obvious abuses, complete with screenshots you'll have to squint to read."
       },
       {
-        "speaker_name": "Jared Bater",
-	"bio": "Network Nerd",
-        "abstract": "Deploying LoRaWAN and cellular devices in remote location to service agricultural clients has some unexpected challenges.  From high delay/unreliable carriers to extremes in temperatures and power to  retrofitting legacy industrial equipment, there are some unique deployment and management challenges.  Come along with me as I share problems and some solutions in the world of IoT in the world of Big Ag.",
-        "event_label": "Adventures in Agricultural IoT: Tales of sensor networks, industrial control systems, and grain monitoring.",
-        "time_label": "16:30 - 17:20",
-        "event_link_href": "agricultural-iot",
-	"youtube_link": "tpyetXdDaPo",
-	"slides_link": "2023/Jared Bater - Adventures in Agricultural IoT.pdf"
+        "time_label": "16:00 - 16:30",
+        "event_label": "Coffee break"
       },
       {
-        "speaker_name": "Mark Jenkins",
-        "bio": "Mark is 17 years into his career as a an 'opdev', a system operator who knows how to program. As a long time member of Skullspace, he founded the hacker space festival Hax, with inspiration taken from The Long Con. Mark is also an organizer of casual chess meetups, you may find him sitting with a chess board ready to take a break from conference watching.",
-        "abstract": "Mark is fresh off his first dive into Ansible, the popular system automation tool. His first reaction to the technology was to imagine the security dangers of an overly powerful  Ansible controller. Mark will share some of his first experience mitigating risk while also bringing the technological benefits into his workplace.",
-        "event_label": "The security implications of Ansible scared me",
-        "time_label": "17:30 - 17:50",
-        "event_link_href": "ansible",
-	"youtube_link": "ODoZ1OxCNKs",
-	"slides_link": "2023/ansible.pdf"
+        "event_label": "State machines & security",
+        "event_link_href": "adam",
+        "speaker_name": "Adam",
+        "time_label": "16:30 - 17:00",
+        "bio": "Adam is a senior embedded developer with 20+ years of experience with microcontrollers. He has a passion for writing testable, re-usable, safe, and secure code. He's been obsessed with state machines for about 8 years and is the author of StateSmith on github.\n\nStateSmith is a cross platform, free/open source tool for generating state machines from diagrams (PlantUML & draw.io). The generated code is human readable, has zero dependencies and is suitable for use with tiny bare metal microcontrollers, video games, apps, web, servers... It avoids dynamic memory allocations for the safety or performance inclined.",
+        "abstract": "This talk will go over some common security mistakes when implementing stateful communication protocols. To keep things interesting, we'll use interactive examples to explore the coding mistakes. The mistakes will start with some newbie blunders and then move into more subtle and hard to catch issues. It will also provide a number of techniques to help tame code complexity with state machine visualizations making it easier to spot gaps in code."
+      },
+      {
+        "event_label": "Persona Theory: Infiltration & Deception of Emerging Threat Groups",
+        "event_link_href": "tammy-harper",
+        "speaker_name": "Tammy Harper",
+        "time_label": "17:00 - 17:30",
+        "bio": "Tammy is a Senior Threat Intelligence Researcher and Certified Dark Web Investigator at Flare. She currently is an admin and volunteer researcher for the open source project RansomLook. When she is not working, Tammy is spending time with her two handsome cats, listening to techno and ambient music and enjoying a delicious matcha latte. Her other hobbies include street and nature photography, reading, and astronomy.",
+        "abstract": "An exploration of techniques, tactics and psychological models used in the infiltration of emerging threat actor groups. Our personas are fabrications and constructions of our inner self that we project outwards. We do this through various means and influences such as race, gender, sex, ability, age, culture, religion, norms, class, and status. For the “real world” aka “irl” we do all this by expression in our clothing, makeup, hairstyling, our hobbies, our network of friends, colleagues, and acquaintances. We leverage all of these facets and we create masks, personas, that we think will best interact with the world around us. The same concepts apply when creating personas for infiltrating online communities.\n\nWhat makes a good persona and what makes a bad persona? Persona’s can vary wildly in quality, many factors contribute to the quality of a persona, for example how tailor is it to the mission, how good is the operational security of the account, how good are you at managing it and leveraging it to establish yourself in a community. Understanding what you can construct and where limitations lie. If you know nothing about the community you are trying to infiltrate you will have a hard time establishing a foothold even more so any significant persistence in the community. We will also look at the concept of Timeshifting persona’s so they appear online. What is your Mission? Know your target: Identify, Probing, Gathering, Verifying, Analyzing, and Distribution of Intelligence obtained by your personas. Executing your Mission Real Example of Infiltration of a RaaS operation. Exfiltration / Means of Exiting"
+      },
+      {
+        "event_label": "WIP: Whose Threat Model is it Anyway?",
+        "event_link_href": "travis",
+        "speaker_name": "Travis",
+        "time_label": "17:30 - 18:00",
+        "bio": "A recent new-dad-for-the-second-time, Travis works as a Cloud Security and Infrastructure engineer for Neo Financial. Previous roles include consulting for InfoSec at MERLIN, particularly in education, and writing autopilot software for UAVs.",
+        "abstract": "WIP: What is threat modelling, why you need it, highlights and common pitfalls, with examples!"
       }
     ],
-    "Sunday, November 5th, 2023": [
+    "Sunday, November 3rd, 2024": [
       {
-        "speaker_name": "Raph",
-        "bio": "In IT for 20+ years, Cyber for the last 5 or 6, I do threat detection engineering!",
-        "abstract": "Endpoints are still a thing even though everyone has their heads in the clouds. There are many ways to deploy Sysmon to endpoints and get the logs that matter to enrich a story even when the EDR's fails. We will walk through an easy way to deploy and manage a Sysmon stack which uses Mitre as detections. ",
-        "event_label": "SYSMON + ATT&CK to feed your SIEM",
-        "time_label": "11:00 - 11:20",
-        "event_link_href": "raph",
-	"youtube_link": "Vwfk0m96GAs",
-	"slides_link": "2023/sysmon.pdf"
+        "time_label": "10:15 - 11:00",
+        "event_label": "Door open + registration"
       },
       {
-        "speaker_name": "Matir",
-        "bio": "David is a senior engineer and tech lead of the internal Red Team at Google.  When not breaking things, he enjoys making electronics and teaching others about security and electronics.  He has spoken at DEF CON, BSidesLV, BSidesSF, and other events.",
-        "abstract": "Badgelife culture involves making custom badges for various events and conferences.  Though not always, these badges are often electronic.  Many creators may have ideas, but have never made a custom PCB or custom electronic device.  This talk is intended to take those who may have played with an Arduino and help them understand the process -- and difficulties -- in turning their idea into a functional badge, along with caveats and suggestions for their first attempt.  Even if you've never built anything electronic, it's my hope you'll understand what's involved, and maybe be inspired to go forth and build something yourself.  I'll cover refining your idea for badgelife, realistic projects for a first try, and setting up a timeline.  Then I'll discuss the steps -- schematic capture, PCB layout, PCB manufacture, PCB assembly (both paid and DIY), and firmware options.",
-        "event_label": "Badgelife Creator 101: Making Your First Electronic Badge",
-        "time_label": "11:30 - 12:20",
-        "event_link_href": "matir",
-	"youtube_link": "zZmF4k2YVWY",
-	"slides_link": "2023/Badgelife 101 - Long Con.pdf"
+        "event_label": "LOWC2 - Living Off the Web C2",
+        "event_link_href": "mat",
+        "speaker_name": "Mat or Scoubi",
+        "time_label": "11:00 - 11:30",
+        "bio": "Mathieu Saulnier is a security enthusiast and Core Mentor for Defcon’s Blue Team Village. He leads world class teams and focuses on research, hunting & detecting adversaries. With 2 decades now in the security space, he’s had the opportunity to work for amazing organizations and make an impact in cyber defense. He shared his passion at Derbycon, SANS Summits and RSAC, amongst others.",
+        "abstract": "With the proliferation of Living Off the Land Binaries (LOLBIN) attacks, I thought it would be interesting to explore how hard/easy it would be to detect a very low level C2 that leverage commonly used websites in order to send commands and receive the output. In this talk we'll see some ways to use Git servers as covert communications channel."
       },
       {
-        "speaker_name": "William Kempan",
-        "bio": "William has been in the Information Security field for 10 years. William worked as an Information Security Specialist at MTS conducting penetration testing, vulnerability management and risk assessments. He then moved to Great-West Life to specialize in penetration testing and red teaming. Most recently he started as a Security Engineer on Amazon's Red Team out of Seattle, WA.\n\nWilliam has a Bachelor of Computer Science from the University of Manitoba and has obtained his Offensive Security Certified Professional (OSCP) and Offensive Security Certified Expert (OSCE) certifications.",
-        "abstract": "How do Red Teams continually improve the effectiveness of Blue teams? Watch this talk to find out! This talk deep dives into how Red and Blue teams help improve each other through doing Offensive Security exercises. We cover the full life cycle from what an offensive security exercise is, how we plan, execute and measure them. This talk is targeted at giving all everyone a behind the scenes look at how incident response and offensive teams operate.\n\nNote: This presentation was not recorded.",
-        "event_label": "Improving incident response with red team tactics",
-        "time_label": "12:30 - 12:50",
-	"event_link_href": "red_team"
+        "event_label": "Hiding in Plain Sight",
+        "event_link_href": "mike-saunders",
+        "speaker_name": "Mike Saunders",
+        "time_label": "11:30 - 12:30",
+        "bio": "Mike Saunders is Red Siege Information Security’s Principal Consultant. Mike has over 25 years of IT and security expertise, having worked in the ISP, banking, insurance, and agriculture businesses. Mike gained knowledge in a range of roles throughout his career, including system and network administration, development, and security architecture. Mike is a highly regarded and experienced international speaker with notable cybersecurity talks at conferences such as DerbyCon, Circle City Con, WWHF, and NorthSec, in addition to having more than a decade of experience as a penetration tester. You can find Mike’s in-depth technical blogs and tool releases online and learn from his several offensive and defensive-focused SiegeCasts. He has been a member of the NCCCDC Red Team on several occasions and is the Lead Red Team Operator for Red Siege Information Security.",
+        "abstract": "It doesn’t matter how advanced your shellcode loader is, if you don’t protect your shellcode from prying AV & EDR sensors, you’re going to have a bad time. From simple encryption schemes like the Caesar cipher to more complex schemes like AES, reversing arrays, steganography, encoding shellcode as other data types, and other techniques, this talk will cover a variety of ways to hide shellcode in your loader. I’ll demonstrate how these techniques score against many engines using VirusTotal. In some cases, AV engines will detect the decoding routine. I’ll also discuss techniques you can use to break this detection. I will also be sharing a repository demonstrating the different evasion techniques discussed in this talk. Note – this talk will not cover behavioral evasion techniques like unhooking, direct and indirect syscalls, or other evasion techniques. Whether you’re new to obfuscating shellcode or an experienced pro, there’s something in this talk for you!"
       },
       {
-        "event_label": "Catered Lunch Break",
-        "time_label": "13:00 - 14:00"
+        "event_label": "AI-Assisted Social Engineering in Cyber Warfare",
+        "event_link_href": "st34lthy-fox",
+        "speaker_name": "St34lthy_fox",
+        "time_label": "12:30 - 13:00",
+        "bio": "Tbd",
+        "abstract": "How nations are using AI to conduct large-scale manipulation"
       },
       {
-        "speaker_name": "Travis Friesen",
-        "bio": "Autopilot Software. InfoSec in Education. AWS Infrastructure. Is there anything Travis can't do? Whistle. And swim. But that's it.",
-        "abstract": "When it comes to meaningful improvements to your security posture, there is nothing that gives you better value for your money than a comprehensive log collection and aggregation deployment. In this talk, Travis will persuade you of the value of a formal logging program, compare and contrast this to a SIEM, and talk about how you can get going with logging today.",
-        "event_label": "Logging: you're not doing it enough",
-        "time_label": "14:00 - 14:20",
-        "event_link_href": "travis",
-	"youtube_link": "W-lUJr04U3U",
-	"slides_link": "2023/Logging.pdf"
+        "time_label": "13:00 - 14:00",
+        "event_label": "Catered lunch"
       },
       {
-        "speaker_name": "Paul Harrison",
-        "bio": "Jack of all trades, master of absolutely nothing.  Security, privacy, and open source geek. Attempting to make security products and platforms less crappy one day at a time. ",
-        "abstract": "Security by obscurity doesn't work, so why are so many people terrified about talking about their security programs without an NDA? Security measures, when well implemented, should be able to withstand someone learning about them.  Let's talk openly about our security, we can all benefit from it!",
-        "event_label": "Transparency in Security",
-        "time_label": "14:30 - 14:50",
-        "event_link_href": "transparency",
-	"youtube_link": "pWUoZLepaio",
-	"slides_link": "2023/transparency_paul_harrison.pdf"
-      },
-      {
-        "speaker_name": "Mike Himbeault",
-        "bio": "Ask Mike about math, AWS, photography, science, space, or dad jokes, and you'll found someone who will to talk for a lot longer than is socially acceptable, or respectful. He's got no formal training in his day job, and pretends, at length, to be good at it. Ask him about math.... I dare you.",
-        "abstract": "There are two types of multitasking - I'll let you guess what they are - but when we invented those, we started down a path that inexorably led us to the worst possible outcome. And then after that, Kubernetes. This talk discusses how we got here, why we should have made a left, not a right, maybe, back at that old house with angry badgers in it, and why Kubernetes is what it is, isn't what it isn't, and where we might end up next.",
-        "event_label": "The ancestry of Kubernetes.",
-        "time_label": "15:00 - 15:50",
-        "event_link_href": "kubernetes",
-	"youtube_link": "IvgQcu_XspY",
-	"slides_link": "2023/K8ns.pdf"
-      },
-      {
-        "event_label": "Coffee Break",
-        "time_label": "16:00 - 16:30"
-      },
-      {
-        "speaker_name": "William Franzin",
-        "bio": "William has been a tech enthusiast his entire life and worked with computers and radio communications since the 90s. Along that journey he became interested in building low cost network-connected projects which lead to skills in what is now known as the Internet of Things.",
-        "abstract": "We're going to look at popular smart bulbs and plugs, how to reverse-engineer them and repurpose those devices into low-cost computers for our internet of things projects. We'll also have some fun abusing that hardware and cover all the things it shouldn't do - but can do.",
-        "event_label": "Reverse-Engineering & Re-Purposing Smart Devices",
-        "time_label": "16:30 - 17:20",
-        "event_link_href": "franzin",
-	"youtube_link": "PRKV_zoaWnQ"
-      },
-      {
+        "event_label": "Introduction to global anycast using OpenBSD (on a budget)",
+        "event_link_href": "rob-keizer",
         "speaker_name": "Rob Keizer",
-        "bio": "Rob lives on a forested property outside of Winnipeg MB with his wife and many musical instruments. He has a background in computer science, and dabbles in almost everything from chemistry to metalworking. He runs a R&D company (Reconfigurable Computing) and works at the Internet Archive.",
-        "abstract": "Pledge is a system call that empowers a program to limit itself. Originally coming out of OpenBSD, this concept is seeing increased usage and has been ported to Linux.  If a process breaks a pledge that it has made it is terminated. This allows programmers to increase security, and heavily mitigates supply chain attacks. It can also be used in a wrapper, effectively guarding against malicious actions.  This is an introductory talk and will go over basic usage.",
-        "event_label": "pledge, and why you should use it",
-        "time_label": "17:30 - 17:50",
-        "event_link_href": "pledge",
-	"youtube_link": "AEZY3b9-HLM",
-	"slides_link": "2023/pledge.pdf"
+        "time_label": "14:00 - 14:30",
+        "bio": "Rob lives on a forested property outside of Winnipeg MB Canada with his wife, his dog, and many musical instruments. He has a background in computer science, and runs a small public network (AS62752) using OpenBSD.",
+        "abstract": "This talk goes over using OpenBSD as the basis for a highly available globally distributed public anycast network. This talk is meant as an introduction to the subject of an anycasted network, and goes over some of the benefits of using OpenBSD."
       },
       {
-        "event_label": "Closing Ceremonies",
-        "time_label": "17:50 - 18:00"
+        "event_label": "A survey of OAuth, OIDC, and Verifiable Credentials (Wallets)",
+        "event_link_href": "richard-frovarp",
+        "speaker_name": "Richard Frovarp",
+        "time_label": "14:30 - 15:30",
+        "bio": "Richard is a principal software engineer in higher education in the USA. He specializes in IAM. He is active in the national higher education space on committees involving IAM, security, and trust.",
+        "abstract": "First we will look at how OAuth 2.0 works as a protocol, and its uses in protecting APIs. Then we will see how OIDC is built on top of OAuth 2.0 to provide federated authentication. Finally we will look at Verifiable Credentials, also known as Self Sovereign Identity. This is the standard driving digital wallets. We will see how it operates, and some of the challenges behind trust in such a system."
+      },
+      {
+        "event_label": "Opulent Alerting: Enriching Our Lives",
+        "event_link_href": "paul-harrison",
+        "speaker_name": "Paul Harrison",
+        "time_label": "15:30 - 16:00",
+        "bio": "Paul leads Security Operations with Mattermost.  Prior to this, he ran SecOps with GitLab and other emerging tech companies. Paul has specialized in building operational security programs in early stage startups, enabling companies to have a secure footing as they grow. (how's that for a pun?)",
+        "abstract": "High quality, actionable, alerting is a dream for many incident response teams.  Who doesn’t love wading through noisy events, false positive alerts, or being paged on Friday night because Bob hand-bombed a change in production? By building enrichment into your detection and alert pipelines, you too can just shake your fist at Bob and worry about it later."
+      },
+      {
+        "time_label": "16:00 - 16:30",
+        "event_label": "Coffee break"
+      },
+      {
+        "event_label": "Achieving More by Doing Less - How Burnout Prevention Can Improve Productivity",
+        "event_link_href": "matias",
+        "speaker_name": "Matias",
+        "time_label": "16:30 - 17:00",
+        "bio": "Matias Wengiel currently works as a Full Stack Web Developer at Neo Financial. Before that, he was a post-secondary instructor in the Health Sciences. Before that he was a physician. He also went on fossil digs and found fossils! That’s not really relevant to our con, just wanted to share.\n\nHe likes to combine all three of his careers into an instructional discussion about how to avoid burnout (which is not great for your health) with a focus on the tech sector. Maybe it’s because he keeps choosing high-burnout careers and wants to help others in his same situation. Or maybe it’s because he’s trying to find a way to balance work with his endless list of hobbies and interests such as tabletop gaming, gardening, camping, cooking anything over (and sometimes under) charcoal and more!",
+        "abstract": "Today’s workplace presents a very demanding environment, in which we are routinely asked to do more with less. This often means more hours worked, more stress, less time for relaxation and unfortunately that is a recipe for burnout.\n\nBelieve it or not, this pattern can be avoided! By leaning into our natural strengths, we can be more efficient and resilient. So let’s talk about what burnout is, how to spot it and how to prevent it. After all, it truly IS possible to achieve more by doing less!"
+      },
+      {
+        "event_label": "Let's talk IoT: Internet of Terrible",
+        "event_link_href": "william",
+        "speaker_name": "William",
+        "time_label": "17:00 - 17:30",
+        "bio": "William has been a tech enthusiast his entire life and started working with desktop computers in his childhood.\n\nSince he grew up using computers before the internet existed, I guess that makes him really old.",
+        "abstract": "This will be a quick presentation covering some examples of Internet of Things devices that contain terrible design or security flaws.\n\nLet's talk about those devices and what we can all do to contain that threat. As we all know this is the real state of IoT."
+      },
+      {
+        "event_label": "Sideload this!",
+        "event_link_href": "mike-himbeault",
+        "speaker_name": "Mike Himbeault",
+        "time_label": "17:30 - 18:00",
+        "bio": "Mike like to think of himself as a mathematician that does computers to pay the bills but really he's most just three sarcastic racoons in a trenchcoat... with a math degree and a Master's he definitely would do again. He likes to learn about new things and has worked a lot of different jobs including an AI startup, and most recently leading a security team at a fintech. He's recently gotten into 3D printing, and that was probably a poor choice, but ask him about it anyway!",
+        "abstract": "The number of cool devices with Bluetooth in them is insane: usb current meters, batteries, charge controllers, LED lights, sous vide devices, and other things. But they all need the weirdest apps that you download from MediaFire, are never in your own language, require every permission under the sun to run, require an account to use for some reason, and drain your battery because they're probably mining Bitcoin in the background.\n\nThis talk is a brief dig into how you would rebuild a client app for one of these devices on a more open platform, like a Bluetooth enabled microcontroller. We'll talk through how you would snoop Bluetooth traffic from an Android device, pull apart protocols, and start building your own client."
+      },
+      {
+        "time_label": "18:00",
+        "event_label": "Brief closing ceremony (if time permits)"
       }
     ]
   }
 }
+
