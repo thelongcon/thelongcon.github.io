@@ -101,7 +101,7 @@ year: 2024
           <tr>
             <td>16:00 - 16:30</td>
             
-              <td>Coffee break</td>
+              <td>Break</td>
             
           </tr>
           
@@ -238,7 +238,7 @@ year: 2024
           <tr>
             <td>16:00 - 16:30</td>
             
-              <td>Coffee break</td>
+              <td>Break</td>
             
           </tr>
           
