@@ -13,6 +13,9 @@
     - name: CANARIE
       logo: canarie.png
       link: https://canarie.ca
+    - name: Trellix
+      logo: trellix.png
+      link: https://trellix.com
     - name: Iron Spear
       logo: ironspear.png
       link: https://ironspear.ca

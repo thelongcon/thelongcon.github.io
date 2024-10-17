@@ -6,7 +6,7 @@ year: 2024
 
 <div class="row marketing">
     <style>
-      img.sponsorlogo { max-height:200px; max-width:600px; display:inline-block; padding:20px; }
+      img.sponsorlogo { max-height:200px; max-width:450px; display:inline-block; padding:20px; }
       a.sponsortext { font-size:30px; font-weight:bold; display:inline-block; padding:20px }
     </style>
   <div class="col-lg-12">
