@@ -16,9 +16,11 @@
     - name: Trellix
       logo: trellix.png
       link: https://trellix.com
+      scale: 0.7
     - name: Iron Spear
       logo: ironspear.png
       link: https://ironspear.ca
+      scale: 0.7
 - level: Bronze
   sponsors:
     - name: Paul Harrison / DevSecOops

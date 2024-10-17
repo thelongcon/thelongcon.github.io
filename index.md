@@ -27,7 +27,7 @@ permalink: /
     {% for sponsor in sponsor_group.sponsors %}
     <a href="{{ sponsor.link }}" target="_blank">
       {% if sponsor.logo %}
-      <img class="sponsorlogo" src="/logos/{{ sponsor.logo }}" />
+      <img class="sponsorlogo" src="/logos/{{ sponsor.logo }}" {% if sponsor.scale %} style="transform: scale({{ sponsor.scale }})" {% endif %} />
       {% else %}
       <p style="font-size: 4rem">{{ sponsor.name }}</p>
       {% endif %}
