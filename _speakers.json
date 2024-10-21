@@ -66,7 +66,7 @@
         "event_link_href": "adam",
         "speaker_name": "Adam",
         "time_label": "16:30 - 17:00",
-        "bio": "Adam is a senior embedded developer with 20+ years of experience with microcontrollers. He has a passion for writing testable, re-usable, safe, and secure code. He's been obsessed with state machines for about 8 years and is the author of StateSmith on github.\n\nStateSmith is a cross platform, free/open source tool for generating state machines from diagrams (PlantUML & draw.io). The generated code is human readable, has zero dependencies and is suitable for use with tiny bare metal microcontrollers, video games, apps, web, servers... It avoids dynamic memory allocations for the safety or performance inclined.",
+        "bio": "Adam is a senior embedded developer with 20+ years of experience with microcontrollers. He has a passion for writing testable, re-usable, safe, and secure code. He's been obsessed with state machines for about 8 years and is the author of StateSmith on github.",
         "abstract": "In this short talk, I'll tell a story about how a small ISP (MTS) found a massive exploit in a residential gateway already in use by Verizon. I'll also provide some tips on how you might find similar exploits."
       },
       {
