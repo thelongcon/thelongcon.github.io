@@ -1,6 +1,6 @@
 ---
 layout: with-jumbotron-ctf
-permalink: /ctf2024
+permalink: /ctf2024/
 ---
 
 
