@@ -308,7 +308,7 @@ As hackers, it's our job to uncover these flaws. Learn about some of the real-wo
       <p class="bio">Bio: "GlitchWitch is a highly skilled and passionate hacker with a deep technical background. With a demonstrated passion for fortifying the digital realm, they are constantly pushing the boundaries to improve web security and develop cutting-edge security automation solutions. GlitchWitch currently works as the Founder & CEO of GlitchSecure, a growing Winnipeg based cybersecurity company developing continuous security testing software."</p>
       
         <p>
-          <a target="_blank" href="/slides/Jade GlitchWitch - Real-world Vulnerabilities (and how to demonstrate their impact).pdf">Slides</a>
+          <a target="_blank" href="/slides/2024/Jade GlitchWitch - Real-world Vulnerabilities (and how to demonstrate their impact).pdf">Slides</a>
         </p>
        
       
@@ -330,7 +330,7 @@ As hackers, it's our job to uncover these flaws. Learn about some of the real-wo
 With a track record of successful presentations at major technical conferences, Gavin is known for his engaging and entertaining take on complex topics. He has a knack for breaking down intricate concepts into easily understandable terms, ensuring that everyone can grasp the fundamental ideas. His dynamic style ensures an inspiring session that will motivate and encourage teams as they begin to leverage AI tools in solving client needs."</p>
       
         <p>
-          <a target="_blank" href="/slides/Gavin - A Cyberpunks Guide to Attacking and Defending Generative - v4.pdf">Slides</a>
+          <a target="_blank" href="/slides/2024/Gavin - A Cyberpunks Guide to Attacking and Defending Generative - v4.pdf">Slides</a>
         </p>
        
       
@@ -369,7 +369,7 @@ The session will emphasize the importance of telemetry in the threat hunting pro
       <p class="bio">Bio: "Cybersecurity professional with expertise in technical sales, consulting and professional services.  My career has been primarily focused on building and managing IT infrastructure, specializing in mission critical network and security systems for large enterprises. Apart from my technical experience, I have extensive experience in managing technical teams and large complex projects."</p>
       
         <p>
-          <a target="_blank" href="/slides/Brent King - Cyber Threat Hunting - LongCon.pdf">Slides</a>
+          <a target="_blank" href="/slides/2024/Brent King - Cyber Threat Hunting - LongCon.pdf">Slides</a>
         </p>
        
       
@@ -389,7 +389,7 @@ The session will emphasize the importance of telemetry in the threat hunting pro
       <p class="bio">Bio: "Engineering drop-out, Programmer, LAN Admin, DBA, Tech Support Manager, Software Architect, Product Manager, Network Operator, Network Architect, Conference Organizer, Amateur Musician, Autistic + ADHD.  Having done so many things means knowledge from other domains informs the domain I'm working in at any time; I also speak multiple tech dialects and can translate between groups."</p>
       
         <p>
-          <a target="_blank" href="/slides/Adam Thompson - What I wish people knew about networking.pdf">Slides</a>
+          <a target="_blank" href="/slides/2024/Adam Thompson - What I wish people knew about networking.pdf">Slides</a>
         </p>
        
       
@@ -415,7 +415,7 @@ Professionally I run the vulnerability management and penetration testing servic
 Personally, I avoid computers and enjoy punishing myself with manual labour and farm work, reading a good book, or reading about Linguistics."</p>
       
         <p>
-          <a target="_blank" href="/slides/David Dyck - ZeroConf - Abuses, Implementations, and Other Malarkey.pdf">Slides</a>
+          <a target="_blank" href="/slides/2024/David Dyck - ZeroConf - Abuses, Implementations, and Other Malarkey.pdf">Slides</a>
         </p>
        
       
@@ -474,7 +474,7 @@ What makes a good persona and what makes a bad persona? Persona’s can vary wil
       <p class="bio">Bio: "A recent new-dad-for-the-second-time, Travis works as a Cloud Security and Infrastructure engineer for Neo Financial. Previous roles include consulting for InfoSec at MERLIN, particularly in education, and writing autopilot software for UAVs."</p>
       
         <p>
-          <a target="_blank" href="/slides/Travis - Whose Threat Model is it Anyway!_.pdf">Slides</a>
+          <a target="_blank" href="/slides/2024/Travis - Whose Threat Model is it Anyway!_.pdf">Slides</a>
         </p>
        
       
@@ -495,7 +495,7 @@ What makes a good persona and what makes a bad persona? Persona’s can vary wil
       <p class="bio">Bio: "Mathieu Saulnier is a security enthusiast and Core Mentor for Defcon’s Blue Team Village. He leads world class teams and focuses on research, hunting & detecting adversaries. With 2 decades now in the security space, he’s had the opportunity to work for amazing organizations and make an impact in cyber defense. He shared his passion at Derbycon, SANS Summits and RSAC, amongst others."</p>
       
         <p>
-          <a target="_blank" href="/slides/Mat Saulnier - LOWC2.pdf">Slides</a>
+          <a target="_blank" href="/slides/2024/Mat Saulnier - LOWC2.pdf">Slides</a>
         </p>
        
       
@@ -515,7 +515,7 @@ What makes a good persona and what makes a bad persona? Persona’s can vary wil
       <p class="bio">Bio: "Mike Saunders is Red Siege Information Security’s Principal Consultant. Mike has over 25 years of IT and security expertise, having worked in the ISP, banking, insurance, and agriculture businesses. Mike gained knowledge in a range of roles throughout his career, including system and network administration, development, and security architecture. Mike is a highly regarded and experienced international speaker with notable cybersecurity talks at conferences such as DerbyCon, Circle City Con, WWHF, and NorthSec, in addition to having more than a decade of experience as a penetration tester. You can find Mike’s in-depth technical blogs and tool releases online and learn from his several offensive and defensive-focused SiegeCasts. He has been a member of the NCCCDC Red Team on several occasions and is the Lead Red Team Operator for Red Siege Information Security."</p>
       
         <p>
-          <a target="_blank" href="/slides/Mike Saunders - Hiding in Plain Sight.pdf">Slides</a>
+          <a target="_blank" href="/slides/2024/Mike Saunders - Hiding in Plain Sight.pdf">Slides</a>
         </p>
        
       
@@ -552,7 +552,7 @@ What makes a good persona and what makes a bad persona? Persona’s can vary wil
       <p class="bio">Bio: "Rob lives on a forested property outside of Winnipeg MB Canada with his wife, his dog, and many musical instruments. He has a background in computer science, and runs a small public network (AS62752) using OpenBSD."</p>
       
         <p>
-          <a target="_blank" href="/slides/Robert Keizer - Introduction to global anycast using OpenBSD (on a budget) - The Long Con 2024.pdf">Slides</a>
+          <a target="_blank" href="/slides/2024/Robert Keizer - Introduction to global anycast using OpenBSD (on a budget) - The Long Con 2024.pdf">Slides</a>
         </p>
        
       
@@ -588,7 +588,7 @@ What makes a good persona and what makes a bad persona? Persona’s can vary wil
       <p class="bio">Bio: "Paul leads Security Operations with Mattermost.  Prior to this, he ran SecOps with GitLab and other emerging tech companies. Paul has specialized in building operational security programs in early stage startups, enabling companies to have a secure footing as they grow. (how's that for a pun?)"</p>
       
         <p>
-          <a target="_blank" href="/slides/Paul Harrison - Opulent Alerting - Enriching our Lives.pdf">Slides</a>
+          <a target="_blank" href="/slides/2024/Paul Harrison - Opulent Alerting - Enriching our Lives.pdf">Slides</a>
         </p>
        
       
@@ -613,7 +613,7 @@ Believe it or not, this pattern can be avoided! By leaning into our natural stre
 He likes to combine all three of his careers into an instructional discussion about how to avoid burnout (which is not great for your health) with a focus on the tech sector. Maybe it’s because he keeps choosing high-burnout careers and wants to help others in his same situation. Or maybe it’s because he’s trying to find a way to balance work with his endless list of hobbies and interests such as tabletop gaming, gardening, camping, cooking anything over (and sometimes under) charcoal and more!"</p>
       
         <p>
-          <a target="_blank" href="/slides/Matias Wengiel - Achieving more by doing less.pdf">Slides</a>
+          <a target="_blank" href="/slides/2024/Matias Wengiel - Achieving more by doing less.pdf">Slides</a>
         </p>
        
       
