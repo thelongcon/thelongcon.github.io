@@ -586,6 +586,10 @@ What makes a good persona and what makes a bad persona? Persona’s can vary wil
     <div class="col-lg-7">
       <p class="abstract">First we will look at how OAuth 2.0 works as a protocol, and its uses in protecting APIs. Then we will see how OIDC is built on top of OAuth 2.0 to provide federated authentication. Finally we will look at Verifiable Credentials, also known as Self Sovereign Identity. This is the standard driving digital wallets. We will see how it operates, and some of the challenges behind trust in such a system.</p>
       <p class="bio">Bio: "Richard is a principal software engineer in higher education in the USA. He specializes in IAM. He is active in the national higher education space on committees involving IAM, security, and trust."</p>
+      
+        <p>
+          <a target="_blank" href="/slides/Richard - A survey of OAuth, OIDC, and Verifiable Credentials (Wallets).pdf">Slides</a>
+        </p>
        
       
     </div>

@@ -144,7 +144,8 @@
         "speaker_name": "Richard Frovarp",
         "time_label": "14:30 - 15:30",
         "bio": "Richard is a principal software engineer in higher education in the USA. He specializes in IAM. He is active in the national higher education space on committees involving IAM, security, and trust.",
-        "abstract": "First we will look at how OAuth 2.0 works as a protocol, and its uses in protecting APIs. Then we will see how OIDC is built on top of OAuth 2.0 to provide federated authentication. Finally we will look at Verifiable Credentials, also known as Self Sovereign Identity. This is the standard driving digital wallets. We will see how it operates, and some of the challenges behind trust in such a system."
+        "abstract": "First we will look at how OAuth 2.0 works as a protocol, and its uses in protecting APIs. Then we will see how OIDC is built on top of OAuth 2.0 to provide federated authentication. Finally we will look at Verifiable Credentials, also known as Self Sovereign Identity. This is the standard driving digital wallets. We will see how it operates, and some of the challenges behind trust in such a system.",
+        "slides_link": "Richard - A survey of OAuth, OIDC, and Verifiable Credentials (Wallets).pdf"
       },
       {
         "event_label": "Opulent Alerting: Enriching Our Lives",
