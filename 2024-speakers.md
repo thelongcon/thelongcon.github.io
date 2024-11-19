@@ -360,6 +360,10 @@ With a track record of successful presentations at major technical conferences, 
     <div class="col-lg-7">
       <p class="abstract">IBM’s data security mission is centred on helping organizations safeguard their most critical asset: data. By focusing on data security posture management, data governance, and data detection and response, IBM enables businesses to navigate today’s complex cybersecurity landscape. At the heart of this mission is IBM’s Guardium suite, a leading data security platform designed to protect sensitive data across environments, including on-premises, cloud, and hybrid infrastructures. Guardium offers solutions for data discovery, real-time activity monitoring, vulnerability assessment, and encryption to prevent unauthorized access and data breaches. With features like automated compliance reporting, user behaviour analytics, and AI-driven insights, Guardium empowers organizations to not only secure their data but also streamline regulatory compliance, reduce operational risk, and maintain the integrity of their information systems.</p>
       <p class="bio">Bio: "Melissa Gabriele is a seasoned cybersecurity expert with extensive experience in threat management, vulnerability assessment, and data security. She is a Technical Specialist for IBM Canada, overseeing security software services and solutions for Canada’s West Coast region. With a background in teaching cybersecurity intelligence and extensive expertise in threat hunting, forensic investigation, and risk management, Melissa is dedicated to helping organizations protect against digital threats through effective and innovative security strategies."</p>
+      
+        <p>
+          <a target="_blank" href="/slides/2024/Melissa Gabriele - LockItDown_Keys2DataSecuritySuccess.pptx">Slides</a>
+        </p>
        
       
     </div>
