@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /speakers/
-year: 2024
+year: 2025
 ---
 
 
@@ -677,6 +677,10 @@ Since he grew up using computers before the internet existed, I guess that makes
 
 This talk is a brief dig into how you would rebuild a client app for one of these devices on a more open platform, like a Bluetooth enabled microcontroller. We'll talk through how you would snoop Bluetooth traffic from an Android device, pull apart protocols, and start building your own client.</p>
       <p class="bio">Bio: "Mike like to think of himself as a mathematician that does computers to pay the bills but really he's most just three sarcastic racoons in a trenchcoat... with a math degree and a Master's he definitely would do again. He likes to learn about new things and has worked a lot of different jobs including an AI startup, and most recently leading a security team at a fintech. He's recently gotten into 3D printing, and that was probably a poor choice, but ask him about it anyway!"</p>
+      
+        <p>
+          <a target="_blank" href="/slides/2024/Michael Himbeault - Sideload This.pdf">Slides</a>
+        </p>
        
       
     </div>
