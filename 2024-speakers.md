@@ -324,6 +324,8 @@ As hackers, it's our job to uncover these flaws. Learn about some of the real-wo
         </p>
        
       
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/k3jq2w2NwHU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      
     </div>
   </div>
 
@@ -346,6 +348,8 @@ With a track record of successful presentations at major technical conferences, 
         </p>
        
       
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/YB5A1A8DC0w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      
     </div>
   </div>
 
@@ -365,6 +369,8 @@ With a track record of successful presentations at major technical conferences, 
           <a target="_blank" href="/slides/2024/Melissa Gabriele - LockItDown_Keys2DataSecuritySuccess.pptx">Slides</a>
         </p>
        
+      
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/GSHMlxrdJ-k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       
     </div>
   </div>
@@ -389,6 +395,8 @@ The session will emphasize the importance of telemetry in the threat hunting pro
         </p>
        
       
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/_I5gkq1ad7k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      
     </div>
   </div>
 
@@ -408,6 +416,8 @@ The session will emphasize the importance of telemetry in the threat hunting pro
           <a target="_blank" href="/slides/2024/Adam Thompson - What I wish people knew about networking.pdf">Slides</a>
         </p>
        
+      
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/CoUIbqzI8Sw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       
     </div>
   </div>
@@ -435,6 +445,8 @@ Personally, I avoid computers and enjoy punishing myself with manual labour and 
         </p>
        
       
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/7fo6u4WNOc8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      
     </div>
   </div>
 
@@ -456,6 +468,8 @@ Personally, I avoid computers and enjoy punishing myself with manual labour and 
         </p>
        
       
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/-3RNUtqZQgw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      
     </div>
   </div>
 
@@ -470,7 +484,7 @@ Personally, I avoid computers and enjoy punishing myself with manual labour and 
     <div class="col-lg-7">
       <p class="abstract">An exploration of techniques, tactics and psychological models used in the infiltration of emerging threat actor groups. Our personas are fabrications and constructions of our inner self that we project outwards. We do this through various means and influences such as race, gender, sex, ability, age, culture, religion, norms, class, and status. For the “real world” aka “irl” we do all this by expression in our clothing, makeup, hairstyling, our hobbies, our network of friends, colleagues, and acquaintances. We leverage all of these facets and we create masks, personas, that we think will best interact with the world around us. The same concepts apply when creating personas for infiltrating online communities.
 
-What makes a good persona and what makes a bad persona? Persona’s can vary wildly in quality, many factors contribute to the quality of a persona, for example how tailor is it to the mission, how good is the operational security of the account, how good are you at managing it and leveraging it to establish yourself in a community. Understanding what you can construct and where limitations lie. If you know nothing about the community you are trying to infiltrate you will have a hard time establishing a foothold even more so any significant persistence in the community. We will also look at the concept of Timeshifting persona’s so they appear online. What is your Mission? Know your target: Identify, Probing, Gathering, Verifying, Analyzing, and Distribution of Intelligence obtained by your personas. Executing your Mission Real Example of Infiltration of a RaaS operation. Exfiltration / Means of Exiting</p>
+What makes a good persona and what makes a bad persona? Persona’s can vary wildly in quality, many factors contribute to the quality of a persona, for example how tailor is it to the mission, how good is the operational security of the account, how good are you at managing it and leveraging it to establish yourself in a community. Understanding what you can construct and where limitations lie. If you know nothing about the community you are trying to infiltrate you will have a hard time establishing a foothold even more so any significant persistence in the community. We will also look at the concept of Timeshifting persona’s so they appear online. What is your Mission? Know your target: Identify, Probing, Gathering, Verifying, Analyzing, and Distribution of Intelligence obtained by your personas. Executing your Mission Real Example of Infiltration of a RaaS operation. Exfiltration / Means of Exiting.</p>
       <p class="bio">Bio: "Tammy is a Senior Threat Intelligence Researcher and Certified Dark Web Investigator at Flare. She currently is an admin and volunteer researcher for the open source project RansomLook. When she is not working, Tammy is spending time with her two handsome cats, listening to techno and ambient music and enjoying a delicious matcha latte. Her other hobbies include street and nature photography, reading, and astronomy."</p>
        
       
@@ -494,6 +508,8 @@ What makes a good persona and what makes a bad persona? Persona’s can vary wil
         </p>
        
       
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/DxuQECIi5cU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      
     </div>
   </div>
 
@@ -515,6 +531,8 @@ What makes a good persona and what makes a bad persona? Persona’s can vary wil
         </p>
        
       
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/_-THWAFKnjc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      
     </div>
   </div>
 
@@ -535,6 +553,8 @@ What makes a good persona and what makes a bad persona? Persona’s can vary wil
         </p>
        
       
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/5vMQlgD58Ws" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      
     </div>
   </div>
 
@@ -554,6 +574,8 @@ What makes a good persona and what makes a bad persona? Persona’s can vary wil
           <a target="_blank" href="/slides/2024/Chalena - AI social engineering pres FINAL.odp">Slides</a>
         </p>
        
+      
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/wglSS9VeBmc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       
     </div>
   </div>
@@ -576,6 +598,8 @@ What makes a good persona and what makes a bad persona? Persona’s can vary wil
         </p>
        
       
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/JpxpjzUfQpg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      
     </div>
   </div>
 
@@ -596,6 +620,8 @@ What makes a good persona and what makes a bad persona? Persona’s can vary wil
         </p>
        
       
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/HEOBYWcBoUM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      
     </div>
   </div>
 
@@ -615,6 +641,8 @@ What makes a good persona and what makes a bad persona? Persona’s can vary wil
           <a target="_blank" href="/slides/2024/Paul Harrison - Opulent Alerting - Enriching our Lives.pdf">Slides</a>
         </p>
        
+      
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/gHqoolSqgrk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       
     </div>
   </div>
@@ -640,6 +668,8 @@ He likes to combine all three of his careers into an instructional discussion ab
           <a target="_blank" href="/slides/2024/Matias Wengiel - Achieving more by doing less.pdf">Slides</a>
         </p>
        
+      
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/3Gj08mvjWe8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       
     </div>
   </div>
@@ -682,6 +712,8 @@ This talk is a brief dig into how you would rebuild a client app for one of thes
           <a target="_blank" href="/slides/2024/Michael Himbeault - Sideload This.pdf">Slides</a>
         </p>
        
+      
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/QMKirQ5M7As" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       
     </div>
   </div>

@@ -6,6 +6,7 @@
         "event_label": "Door open + registration"
       },
       {
+        "youtube_link": "k3jq2w2NwHU",
         "event_label": "Real-world Vulnerabilities (and how to exploit them)",
         "event_link_href": "glitchwitch",
         "speaker_name": "GlitchWitch",
@@ -15,6 +16,7 @@
         "slides_link": "2024/Jade GlitchWitch - Real-world Vulnerabilities (and how to demonstrate their impact).pdf"
       },
       {
+        "youtube_link": "YB5A1A8DC0w",
         "event_label": "The Cyberpunks Guide to Attacking and Defending Generative AI",
         "event_link_href": "gavin-klondike",
         "speaker_name": "Gavin Klondike",
@@ -24,6 +26,7 @@
         "slides_link": "2024/Gavin - A Cyberpunks Guide to Attacking and Defending Generative - v4.pdf"
       },
       {
+        "youtube_link": "GSHMlxrdJ-k",
         "event_label": "Lock it Down: IBM's Keys to Data Security Success",
         "event_link_href": "mel",
         "speaker_name": "Mel",
@@ -37,6 +40,7 @@
         "event_label": "Catered lunch"
       },
       {
+        "youtube_link": "_I5gkq1ad7k",
         "event_label": "Threat Hunting, Tracking Your Adversaries",
         "event_link_href": "brent-king",
         "speaker_name": "Brent King",
@@ -46,6 +50,7 @@
         "slides_link": "2024/Brent King - Cyber Threat Hunting - LongCon.pdf"
       },
       {
+        "youtube_link": "CoUIbqzI8Sw",
         "event_label": "Networking I wish Security people understood",
         "event_link_href": "adam-thompson",
         "speaker_name": "Adam Thompson",
@@ -55,6 +60,7 @@
         "slides_link": "2024/Adam Thompson - What I wish people knew about networking.pdf"
       },
       {
+        "youtube_link": "7fo6u4WNOc8",
         "event_label": "Zeroconf Networking - Abuses, Implementations, and Other Malarkey",
         "event_link_href": "david-dyck",
         "speaker_name": "David Dyck",
@@ -68,6 +74,7 @@
         "event_label": "Break"
       },
       {
+        "youtube_link": "-3RNUtqZQgw",
         "event_label": "MTS finds massive RG exploit",
         "event_link_href": "adam",
         "speaker_name": "Adam",
@@ -85,6 +92,7 @@
         "abstract": "An exploration of techniques, tactics and psychological models used in the infiltration of emerging threat actor groups. Our personas are fabrications and constructions of our inner self that we project outwards. We do this through various means and influences such as race, gender, sex, ability, age, culture, religion, norms, class, and status. For the “real world” aka “irl” we do all this by expression in our clothing, makeup, hairstyling, our hobbies, our network of friends, colleagues, and acquaintances. We leverage all of these facets and we create masks, personas, that we think will best interact with the world around us. The same concepts apply when creating personas for infiltrating online communities.\n\nWhat makes a good persona and what makes a bad persona? Persona’s can vary wildly in quality, many factors contribute to the quality of a persona, for example how tailor is it to the mission, how good is the operational security of the account, how good are you at managing it and leveraging it to establish yourself in a community. Understanding what you can construct and where limitations lie. If you know nothing about the community you are trying to infiltrate you will have a hard time establishing a foothold even more so any significant persistence in the community. We will also look at the concept of Timeshifting persona’s so they appear online. What is your Mission? Know your target: Identify, Probing, Gathering, Verifying, Analyzing, and Distribution of Intelligence obtained by your personas. Executing your Mission Real Example of Infiltration of a RaaS operation. Exfiltration / Means of Exiting"
       },
       {
+        "youtube_link": "DxuQECIi5cU",
         "event_label": "WIP: Whose Threat Model is it Anyway?",
         "event_link_href": "travis",
         "speaker_name": "Travis",
@@ -100,6 +108,7 @@
         "event_label": "Door open + registration"
       },
       {
+        "youtube_link": "_-THWAFKnjc",
         "event_label": "LOWC2 - Living Off the Web C2",
         "event_link_href": "mat",
         "speaker_name": "Mat or Scoubi",
@@ -109,6 +118,7 @@
         "slides_link": "2024/Mat Saulnier - LOWC2.pdf"
       },
       {
+        "youtube_link": "5vMQlgD58Ws",
         "event_label": "Hiding in Plain Sight",
         "event_link_href": "mike-saunders",
         "speaker_name": "Mike Saunders",
@@ -118,6 +128,7 @@
         "slides_link": "2024/Mike Saunders - Hiding in Plain Sight.pdf"
       },
       {
+        "youtube_link": "wglSS9VeBmc",
         "event_label": "AI-Assisted Social Engineering in Cyber Warfare",
         "event_link_href": "st34lthy-fox",
         "speaker_name": "St34lthy_fox",
@@ -131,6 +142,7 @@
         "event_label": "Catered lunch"
       },
       {
+        "youtube_link": "JpxpjzUfQpg",
         "event_label": "Introduction to global anycast using OpenBSD (on a budget)",
         "event_link_href": "rob-keizer",
         "speaker_name": "Rob Keizer",
@@ -140,6 +152,7 @@
         "slides_link": "2024/Robert Keizer - Introduction to global anycast using OpenBSD (on a budget) - The Long Con 2024.pdf"
       },
       {
+        "youtube_link": "HEOBYWcBoUM",
         "event_label": "A survey of OAuth, OIDC, and Verifiable Credentials (Wallets)",
         "event_link_href": "richard-frovarp",
         "speaker_name": "Richard Frovarp",
@@ -149,6 +162,7 @@
         "slides_link": "Richard - A survey of OAuth, OIDC, and Verifiable Credentials (Wallets).pdf"
       },
       {
+        "youtube_link": "gHqoolSqgrk",
         "event_label": "Opulent Alerting: Enriching Our Lives",
         "event_link_href": "paul-harrison",
         "speaker_name": "Paul Harrison",
@@ -162,6 +176,7 @@
         "event_label": "Break"
       },
       {
+        "youtube_link": "3Gj08mvjWe8",
         "event_label": "Achieving More by Doing Less - How Burnout Prevention Can Improve Productivity",
         "event_link_href": "matias",
         "speaker_name": "Matias",
@@ -179,6 +194,7 @@
         "abstract": "This will be a quick presentation covering some examples of Internet of Things devices that contain terrible design or security flaws.\n\nLet's talk about those devices and what we can all do to contain that threat. As we all know this is the real state of IoT."
       },
       {
+        "youtube_link": "QMKirQ5M7As",
         "event_label": "Sideload this!",
         "event_link_href": "mike-himbeault",
         "speaker_name": "Mike Himbeault",
