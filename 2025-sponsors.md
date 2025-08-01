@@ -1,7 +1,7 @@
 ---
-layout: sponsors-archived
-permalink: /2024/sponsors/
-year: 2024
+layout: default
+permalink: /sponsors/
+year: 2025
 ---
 
 <div class="row marketing">
@@ -9,7 +9,13 @@ year: 2024
       img.sponsorlogo { max-height:200px; max-width:450px; display:inline-block; padding:20px; }
       a.sponsortext { font-size:30px; font-weight:bold; display:inline-block; padding:20px }
     </style>
-  {% for sponsor_group in site.data.2024_sponsors %}
+  <div class="col-lg-12">
+    <h2>Interested in sponsorship?</h2>
+
+    <p>Our call for sponsors is now open!</p>
+    <p>If you would like to sponsor The Long Con, please review our <a href="/TLC-2025-Sponsorship-Package.pdf">sponsor package here</a>, and <a href="/contact">contact us</a>!</p>
+  </div>
+  {% for sponsor_group in site.data.2025_sponsors %}
   <div class="col-lg-12">
     <h2>{{ sponsor_group.level }} Sponsors</h2>
     {% for sponsor in sponsor_group.sponsors %}

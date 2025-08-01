@@ -23,7 +23,7 @@ permalink: /
   <div class="col-lg-12">
   <h4>Made possible by</h4>
   {% for sponsor_group
-   in site.data.sponsors %}
+   in site.data.2025_sponsors %}
     {% for sponsor in sponsor_group.sponsors %}
     <a href="{{ sponsor.link }}" target="_blank">
       {% if sponsor.logo %}
