@@ -30,5 +30,9 @@ year: 2025
 
     <p>If you would like to receive information about speaking at future versions of the The Long Con, please <a href="https://thelongcon.us19.list-manage.com/subscribe?u=c036f4bbea51bd9cd747e89bb&id=13bc529231">sign up here!</a></p>
   </div>
+  <div class="col-lg-12">
+  <h4 style="padding-top: 20px">Made possible by</h4>
+  {% include madepossible.html %}
+  </div>
 </div>
 

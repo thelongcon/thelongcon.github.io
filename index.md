@@ -4,11 +4,6 @@ permalink: /
 ---
 
 
-<style>
-  img.sponsorlogo { max-height:200px; max-width:450px; display:inline-block; padding:20px; }
-  a.sponsortext { font-size:30px; font-weight:bold; display:inline-block; padding:20px }
-</style>
-
 <div class="row marketing">
   <div class="col-lg-6">
     <h4>Who?</h4>
@@ -21,18 +16,6 @@ permalink: /
   </div>
 
   <div class="col-lg-12">
-  <h4>Made possible by</h4>
-  {% for sponsor_group
-   in site.data.sponsors_2025 %}
-    {% for sponsor in sponsor_group.sponsors %}
-    <a href="{{ sponsor.link }}" target="_blank">
-      {% if sponsor.logo %}
-      <img class="sponsorlogo" src="/logos/{{ sponsor.logo }}" {% if sponsor.scale %} style="transform: scale({{ sponsor.scale }})" {% endif %} />
-      {% else %}
-      <p style="font-size: 4rem">{{ sponsor.name }}</p>
-      {% endif %}
-    </a>
-    {% endfor %}
-  {% endfor %}
+  {% include madepossible.html %}
   </div>
 </div>

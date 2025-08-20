@@ -3,6 +3,12 @@
     - name: GlitchSecure
       logo: glitchsecure-black.svg
       link: https://glitchsecure.com
+      scale: 1.1
+- level: Gold
+  sponsors:
+    - name: Payworks
+      logo: payworks.png
+      link: https://www.payworks.ca
 - level: Bronze
   sponsors:
     - name: Octopi Managed Services
@@ -13,3 +19,7 @@
       logo: sbs_logo.jpeg
       link: https://seriousbs.org
       scale: 1.2
+    - name: Online Business Systems
+      logo: obs_2017.png
+      link: https://www.obsglobal.com
+    - name: Mike Legary
