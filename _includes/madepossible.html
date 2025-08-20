@@ -3,7 +3,9 @@
   img.sponsorlogo { max-height:200px; max-width:450px; display:inline-block; padding:20px; }
   a.sponsortext { font-size:30px; font-weight:bold; display:inline-block; padding:20px }
 </style>
-{% for sponsor_group in site.data.sponsors_2025 %}
+{% assign sponsor_data_var_name = 'sponsors_' | append: include.year %}
+
+{% for sponsor_group in site.data[sponsor_data_var_name] %}
   {% for sponsor in sponsor_group.sponsors %}
     <a href="{{ sponsor.link }}" target="_blank">
       {% if sponsor.logo %}

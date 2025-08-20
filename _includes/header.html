@@ -13,10 +13,12 @@
 
       <div id="navbar" class="nav navbar-right navbar-collapse collapse">
         <ul class="nav navbar-nav">
+          {% assign current_year_speaker_page = site.data.years.current | append: '-speakers.md' %}
+          {% assign current_year_sponsor_page = site.data.years.current | append: '-sponsors.md' %}
           <li {% if page.path == 'index.md' %} class="active" {% endif %}><a href="/">Home</a></li>
           <li {% if page.path == 'about.md' %} class="active" {% endif %}><a href="/about/">About</a></li>
-          <li {% if page.path == '2025-speakers.md' %} class="active" {% endif %}><a href="/speakers/">Schedule &amp; Speakers</a></li>
-          <li {% if page.path == '2025-sponsors.md' %} class="active" {% endif %}><a href="/sponsors/">Sponsors</a></li>
+          <li {% if page.path == current_year_speaker_page %} class="active" {% endif %}><a href="/{{ site.data.years.current }}/speakers/">Schedule &amp; Speakers</a></li>
+          <li {% if page.path == current_year_sponsor_page %} class="active" {% endif %}><a href="/{{ site.data.years.current }}/sponsors/">Sponsors</a></li>
           <li {% if page.path == 'contact.md' %} class="active" {% endif %}><a href="/contact/">Contact</a></li>
           <li class="dropdown">
             <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Archive <span class="caret"></span></a>

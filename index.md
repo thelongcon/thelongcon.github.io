@@ -16,6 +16,6 @@ permalink: /
   </div>
 
   <div class="col-lg-12">
-  {% include madepossible.html %}
+  {% include madepossible.html year=site.data.years.current %}
   </div>
 </div>
