@@ -32,7 +32,7 @@ year: 2025
   </div>
   <div class="col-lg-12">
   <h4 style="padding-top: 20px">Made possible by</h4>
-  {% include madepossible.html %}
+  {% include madepossible.html year=page.year %}
   </div>
 </div>
 

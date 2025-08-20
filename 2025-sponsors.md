@@ -1,6 +1,6 @@
 ---
-layout: default
-permalink: /sponsors/
+layout: sponsors
+permalink: /2025/sponsors/
 year: 2025
 ---
 
@@ -15,7 +15,8 @@ year: 2025
     <p>Our call for sponsors is now open!</p>
     <p>If you would like to sponsor The Long Con, please review our <a href="/TLC-2025-Sponsorship-Package.pdf">sponsor package here</a>, and <a href="/contact">contact us</a>!</p>
   </div>
-  {% for sponsor_group in site.data.sponsors_2025 %}
+  {% assign sponsor_year_name = 'sponsors_' | append: page.year %}
+  {% for sponsor_group in site.data[sponsor_year_name] %}
   <div class="col-lg-12">
     <h2>{{ sponsor_group.level }} Sponsors</h2>
     {% for sponsor in sponsor_group.sponsors %}

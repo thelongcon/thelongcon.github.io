@@ -2,10 +2,12 @@
 layout: without-jumbotron
 ---
 
+{% if page.year != site.data.years.current %}
 <div class="jumbotron text-center">
   <h1>Sponsors {{ page.year }}</h1>
   <p class="lead">This is an archived page for a previous year.</p>
-  <p><a class="btn btn-lg btn-danger" href="/sponsors/" role="button">Go to Current Year</a></p>
+  <p><a class="btn btn-lg btn-danger" href="/{{ site.data.years.current }}/sponsors/" role="button">Go to Current Year</a></p>
 </div>
+{% endif %}
 
 {{ content }}

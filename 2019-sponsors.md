@@ -1,5 +1,5 @@
 ---
-layout: sponsors-archived
+layout: sponsors
 permalink: /2019/sponsors/
 year: 2019
 ---
