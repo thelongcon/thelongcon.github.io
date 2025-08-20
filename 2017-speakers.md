@@ -1,5 +1,5 @@
 ---
-layout: speakers-archived
+layout: speakers
 permalink: /2017/speakers/
 year: 2017
 ---
