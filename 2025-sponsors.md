@@ -20,15 +20,20 @@ year: 2025
   <div class="col-lg-12">
     <h2>{{ sponsor_group.level }} Sponsors</h2>
     {% for sponsor in sponsor_group.sponsors %}
-    <a href="{{ sponsor.link }}" target="_blank">
-      {% if sponsor.logo %}
-      <img class="sponsorlogo" src="/logos/{{ sponsor.logo }}" {% if sponsor.scale %} style="transform: scale({{ sponsor.scale }})" {% endif %} />
+      {% if sponsor.link %}
+        <a href="{{ sponsor.link }}" target="_blank">
+          {% if sponsor.logo %}
+            <img class="sponsorlogo" src="/logos/{{ sponsor.logo }}" {% if sponsor.scale %} style="transform: scale({{ sponsor.scale }})" {% endif %} />
+          {% else %}
+          <p style="display: inline-block; font-size: 4rem">{{ sponsor.name }}</p>
+          {% endif %}
+        </a>
       {% else %}
-      <p style="font-size: 4rem">{{ sponsor.name }}</p>
+        <p style="display: inline-block; font-size: 4rem">{{ sponsor.name }}</p>
       {% endif %}
-    </a>
     {% endfor %}
-  </div>
   {% endfor %}
+
+
 </div>
 
