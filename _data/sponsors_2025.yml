@@ -9,6 +9,9 @@
     - name: Payworks
       logo: payworks.png
       link: https://www.payworks.ca
+    - name: ISACA Winnipeg
+      logo: isaca_2025.png
+      link: https://engage.isaca.org/winnipegchapter/home
 - level: Bronze
   sponsors:
     - name: Octopi Managed Services
@@ -22,4 +25,8 @@
     - name: Online Business Systems
       logo: obs_2017.png
       link: https://www.obsglobal.com
+    - name: Netskope
+      logo: netskope.png
+      link: https://netskope.com
+      scale: 0.8
     - name: Mike Legary
