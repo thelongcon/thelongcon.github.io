@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: speakers
 permalink: /2025/speakers/
 year: 2025
 ---
