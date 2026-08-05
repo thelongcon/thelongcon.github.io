@@ -1,9 +1,9 @@
 ---
-layout: default
+layout: speakers
 permalink: /2026/speakers/
 year: 2026
 ---
 
-Our call for presentations is not open yet, but stay tuned!
+Our call for presentations is now open! Submissions close on August 30th.
 
-Sign up for our mailing list if you would like to be notified when it opens!
+Submit your proposals to our Google Form: <a href="https://forms.gle/dZCbB8UqwM8bd8yv6">https://forms.gle/dZCbB8UqwM8bd8yv6</a>
