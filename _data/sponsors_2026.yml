@@ -1,0 +1,33 @@
+- level: Platinum
+  sponsors:
+    - name: Taiv
+      logo: taiv.png
+      link: https://taiv.tv
+      scale: 0.8
+- level: Gold
+  sponsors:
+    - name: ISACA Winnipeg
+      logo: isaca_2025.png
+      link: https://engage.isaca.org/winnipegchapter/home
+- level: Silver
+  sponsors:
+    - name: Canada Life
+      logo: canada_life.png
+      link: https://www.canadalife.com
+      scale: 0.8
+    - name: FlexNetworks
+      logo: flexnetworks.png
+      link: https://flexnetworks.ca
+- level: Bronze
+  sponsors:
+    - name: Online Business Systems
+      logo: obs_2017.png
+      link: https://www.obsglobal.com
+    - name: Johnston Group
+      logo: johnstongroup.png
+      link: https://johnstongroup.ca/
+      scale: 0.8
+- level: Individual
+  sponsors:
+    - name: Mike Legary
+    - name: Paul Harrison
