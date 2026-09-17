@@ -18,6 +18,9 @@
     - name: FlexNetworks
       logo: flexnetworks.png
       link: https://flexnetworks.ca
+    - name: iFixit
+      logo: ifixit.jpg
+      link: https://www.ifixit.com/
 - level: Bronze
   sponsors:
     - name: Online Business Systems
