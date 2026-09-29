@@ -7,10 +7,6 @@
       },
       {
         "time_label": "11:30 - 12:00",
-        "event_label": "Welcome to The Long Con"
-      },
-      {
-        "time_label": "12:00 - 12:30",
         "event_label": "Mea culpa! What I got right about audits in 2013 and wrong in 2025",
         "speaker_name": "Mark Jenkins",
         "bio": "A multi-repeat Long Con speaker, Mark is a long time Skullspace member where he founded an annual Hax festival with some Long Con inspiration.",
@@ -18,7 +14,7 @@
         "event_link_href": "markjenkins"
       },
       {
-        "time_label": "12:30 - 13:00",
+        "time_label": "12:00 - 12:30",
         "event_label": "Bits about Space: How Satellites Network from the Ground to Apogee",
         "speaker_name": "Nik Reichert",
         "bio": "Nik Reichert is an avid enthusiast in Competitive Robotics, Cybersecurity, High-Altitude Ballooning, Radio Communications, STEM Education, and Aerospace! He has a B.Sc in Computer Engineering from the University of Manitoba and works at Magellan Aerospace Limited’s Space Systems Department. At Magellan, he specializes in the development of Communications, Avionics, Operations, and Simulation systems for various satellite missions.",
@@ -26,12 +22,12 @@
         "event_link_href": "nikreichert"
       },
       {
-        "time_label": "13:00 - 13:30",
-        "event_label": "Where the Hell Is That Laptop?",
-        "speaker_name": "rafran",
-        "bio": "Raphael Francoeur is a Threat Detection Engineering Specialist who spends his days building detections, hunting threats, and finding increasingly unreasonable things to automate with PowerShell. His work focuses on many things, and turning messy security data into something an analyst can actually use.\n\nWhen he isn’t writing detections, Raphael has a habit of taking simple questions like “where is this laptop?” far beyond their original scope. The result is usually more PowerShell, more telemetry, and at least one coworker asking whether he works for a three-letter agency.",
-        "abstract": "Where the Hell Is That Laptop? — Finding endpoints when the IP is lying\n\nWhat happens when Windows Location Services is blocked, the public IP points to the wrong city, the user is behind a VPN, or the VPN is running on the router instead of the endpoint?\n\nThis talk follows the evolution of Get-DeviceCoords, a PowerShell-based endpoint geolocation tool that grew from a simple Windows Location Services lookup into an evidence-fusion workflow.",
-        "event_link_href": "rafran"
+        "time_label": "12:30 - 13:30",
+        "event_label": "A gentle introduction to Fully Homomorphic Encryption (FHE)",
+        "speaker_name": "Rob Keizer",
+        "bio": "Rob lives on a forested property outside of Winnipeg MB Canada with his wife, his dog, and many musical instruments. He has a background in computer science and has been presenting technical topics for decades.",
+        "abstract": "Fully Homomorphic Encryption is a mouthful. FHE allows you to encrypt data, give it to a third party, have them compute on it, all encrypted, the third party doesn't know the content, or what the result was. This talk is a gentle introduction to the topic. ",
+        "event_link_href": "robkeizer"
       },
       {
         "time_label": "13:30 - 14:30",
@@ -59,11 +55,11 @@
       },
       {
         "time_label": "16:30 - 17:00",
-        "event_label": "A policy control is still a control!",
-        "speaker_name": "Mike Himbeault",
-        "bio": "Mike is a mathematician by training, and a photographer, a software dev, and most recently a drone pilot by hobby.\n\nNote that security isn't anywhere in there. And yet that's my day job.\n\nDraw your own conclusions.",
-        "abstract": "Policies suck.\n\nBut they are still a control. They are the most important one. They are the one you fall back on when you forget to add that deny-all rule in the firewall.\n\nThis talk will develop a policy framework foundation from scratch by walking through the life of the world's most unlucky hypoethical startup.",
-        "event_link_href": "mikehimbeault"
+        "event_label": "Where the Hell Is That Laptop?",
+        "speaker_name": "rafran",
+        "bio": "Raphael Francoeur is a Threat Detection Engineering Specialist who spends his days building detections, hunting threats, and finding increasingly unreasonable things to automate with PowerShell. His work focuses on many things, and turning messy security data into something an analyst can actually use.\n\nWhen he isn’t writing detections, Raphael has a habit of taking simple questions like “where is this laptop?” far beyond their original scope. The result is usually more PowerShell, more telemetry, and at least one coworker asking whether he works for a three-letter agency.",
+        "abstract": "Where the Hell Is That Laptop? — Finding endpoints when the IP is lying\n\nWhat happens when Windows Location Services is blocked, the public IP points to the wrong city, the user is behind a VPN, or the VPN is running on the router instead of the endpoint?\n\nThis talk follows the evolution of Get-DeviceCoords, a PowerShell-based endpoint geolocation tool that grew from a simple Windows Location Services lookup into an evidence-fusion workflow.",
+        "event_link_href": "rafran"
       },
       {
         "time_label": "17:00 - 18:00",
@@ -117,18 +113,6 @@
       },
       {
         "time_label": "15:00 - 16:00",
-        "event_label": "A gentle introduction to Fully Homomorphic Encryption (FHE)",
-        "speaker_name": "Rob Keizer",
-        "bio": "Rob lives on a forested property outside of Winnipeg MB Canada with his wife, his dog, and many musical instruments. He has a background in computer science and has been presenting technical topics for decades.",
-        "abstract": "Fully Homomorphic Encryption is a mouthful. FHE allows you to encrypt data, give it to a third party, have them compute on it, all encrypted, the third party doesn't know the content, or what the result was. This talk is a gentle introduction to the topic. ",
-        "event_link_href": "robkeizer"
-      },
-      {
-        "time_label": "16:00 - 16:30",
-        "event_label": "Break"
-      },
-      {
-        "time_label": "16:30 - 17:30",
         "event_label": "Pod-tential for Disaster: Hacking Kubernetes from Pod to Cluster",
         "speaker_name": "Scott Miller",
         "bio": "Scott Miller is a Penetration Tester at Accenture and performs vulnerability assessments and penetration tests for Accenture's clients, with his favorite domains being infrastructure and web. He enjoys traveling and attending conferences and recruiting events related to security and/or diversity and inclusion. Scott is a musician and singer and also enjoys fitness and doing activities like whitewater kayaking, hiking, and boxing.",
@@ -136,8 +120,24 @@
         "event_link_href": "scottmiller"
       },
       {
-        "time_label": "17:30 - 18:00",
-        "event_label": "Closing remarks"
+        "time_label": "16:00 - 16:30",
+        "event_label": "Break"
+      },
+      {
+        "time_label": "16:30 - 17:00",
+        "event_label": "A policy control is still a control!",
+        "speaker_name": "Mike Himbeault",
+        "bio": "Mike is a mathematician by training, and a photographer, a software dev, and most recently a drone pilot by hobby.\n\nNote that security isn't anywhere in there. And yet that's my day job.\n\nDraw your own conclusions.",
+        "abstract": "Policies suck.\n\nBut they are still a control. They are the most important one. They are the one you fall back on when you forget to add that deny-all rule in the firewall.\n\nThis talk will develop a policy framework foundation from scratch by walking through the life of the world's most unlucky hypoethical startup.",
+        "event_link_href": "mikehimbeault"
+      },
+      {
+        "time_label": "17:00 - 18:00",
+        "event_label": "Hacker Jeopardy"
+      },
+      {
+        "time_label": "18:00 - 18:10",
+        "event_label": "Closing Remarks"
       }
     ]
   }

@@ -34,13 +34,6 @@ year: 2026
           <tr>
             <td>11:30 - 12:00</td>
             
-              <td>Welcome to The Long Con</td>
-            
-          </tr>
-          
-          <tr>
-            <td>12:00 - 12:30</td>
-            
               <td>
                 <a href="#markjenkins">Mea culpa! What I got right about audits in 2013 and wrong in 2025</a>
                 <br/>
@@ -50,7 +43,7 @@ year: 2026
           </tr>
           
           <tr>
-            <td>12:30 - 13:00</td>
+            <td>12:00 - 12:30</td>
             
               <td>
                 <a href="#nikreichert">Bits about Space: How Satellites Network from the Ground to Apogee</a>
@@ -61,12 +54,12 @@ year: 2026
           </tr>
           
           <tr>
-            <td>13:00 - 13:30</td>
+            <td>12:30 - 13:30</td>
             
               <td>
-                <a href="#rafran">Where the Hell Is That Laptop?</a>
+                <a href="#robkeizer">A gentle introduction to Fully Homomorphic Encryption (FHE)</a>
                 <br/>
-                rafran
+                Rob Keizer
               </td>
             
           </tr>
@@ -111,9 +104,9 @@ year: 2026
             <td>16:30 - 17:00</td>
             
               <td>
-                <a href="#mikehimbeault">A policy control is still a control!</a>
+                <a href="#rafran">Where the Hell Is That Laptop?</a>
                 <br/>
-                Mike Himbeault
+                rafran
               </td>
             
           </tr>
@@ -208,9 +201,9 @@ year: 2026
             <td>15:00 - 16:00</td>
             
               <td>
-                <a href="#robkeizer">A gentle introduction to Fully Homomorphic Encryption (FHE)</a>
+                <a href="#scottmiller">Pod-tential for Disaster: Hacking Kubernetes from Pod to Cluster</a>
                 <br/>
-                Rob Keizer
+                Scott Miller
               </td>
             
           </tr>
@@ -223,20 +216,27 @@ year: 2026
           </tr>
           
           <tr>
-            <td>16:30 - 17:30</td>
+            <td>16:30 - 17:00</td>
             
               <td>
-                <a href="#scottmiller">Pod-tential for Disaster: Hacking Kubernetes from Pod to Cluster</a>
+                <a href="#mikehimbeault">A policy control is still a control!</a>
                 <br/>
-                Scott Miller
+                Mike Himbeault
               </td>
             
           </tr>
           
           <tr>
-            <td>17:30 - 18:00</td>
+            <td>17:00 - 18:00</td>
             
-              <td>Closing remarks</td>
+              <td>Hacker Jeopardy</td>
+            
+          </tr>
+          
+          <tr>
+            <td>18:00 - 18:10</td>
+            
+              <td>Closing Remarks</td>
             
           </tr>
           
@@ -249,7 +249,6 @@ year: 2026
 <!-- *********************************************************************** -->
 
 
-  
   
   
   <div class="row" style="padding-top:3em;" id="markjenkins">
@@ -284,22 +283,16 @@ year: 2026
   </div>
 
   
-  <div class="row" style="padding-top:3em;" id="rafran">
+  <div class="row" style="padding-top:3em;" id="robkeizer">
     <div class="col-lg-12 bg-primary">
-      <h4 class="title">Where the Hell Is That Laptop?</h4>
-      <h5 class="speaker">rafran</h5>
+      <h4 class="title">A gentle introduction to Fully Homomorphic Encryption (FHE)</h4>
+      <h5 class="speaker">Rob Keizer</h5>
     </div>
   </div>
   <div class="row">
     <div class="col-lg-7">
-      <p class="abstract">Where the Hell Is That Laptop? — Finding endpoints when the IP is lying
-
-What happens when Windows Location Services is blocked, the public IP points to the wrong city, the user is behind a VPN, or the VPN is running on the router instead of the endpoint?
-
-This talk follows the evolution of Get-DeviceCoords, a PowerShell-based endpoint geolocation tool that grew from a simple Windows Location Services lookup into an evidence-fusion workflow.</p>
-      <p class="bio">Bio: "Raphael Francoeur is a Threat Detection Engineering Specialist who spends his days building detections, hunting threats, and finding increasingly unreasonable things to automate with PowerShell. His work focuses on many things, and turning messy security data into something an analyst can actually use.
-
-When he isn’t writing detections, Raphael has a habit of taking simple questions like “where is this laptop?” far beyond their original scope. The result is usually more PowerShell, more telemetry, and at least one coworker asking whether he works for a three-letter agency."</p>
+      <p class="abstract">Fully Homomorphic Encryption is a mouthful. FHE allows you to encrypt data, give it to a third party, have them compute on it, all encrypted, the third party doesn't know the content, or what the result was. This talk is a gentle introduction to the topic. </p>
+      <p class="bio">Bio: "Rob lives on a forested property outside of Winnipeg MB Canada with his wife, his dog, and many musical instruments. He has a background in computer science and has been presenting technical topics for decades."</p>
        
       
     </div>
@@ -340,24 +333,22 @@ When he isn’t writing detections, Raphael has a habit of taking simple questio
 
   
   
-  <div class="row" style="padding-top:3em;" id="mikehimbeault">
+  <div class="row" style="padding-top:3em;" id="rafran">
     <div class="col-lg-12 bg-primary">
-      <h4 class="title">A policy control is still a control!</h4>
-      <h5 class="speaker">Mike Himbeault</h5>
+      <h4 class="title">Where the Hell Is That Laptop?</h4>
+      <h5 class="speaker">rafran</h5>
     </div>
   </div>
   <div class="row">
     <div class="col-lg-7">
-      <p class="abstract">Policies suck.
+      <p class="abstract">Where the Hell Is That Laptop? — Finding endpoints when the IP is lying
 
-But they are still a control. They are the most important one. They are the one you fall back on when you forget to add that deny-all rule in the firewall.
+What happens when Windows Location Services is blocked, the public IP points to the wrong city, the user is behind a VPN, or the VPN is running on the router instead of the endpoint?
 
-This talk will develop a policy framework foundation from scratch by walking through the life of the world's most unlucky hypoethical startup.</p>
-      <p class="bio">Bio: "Mike is a mathematician by training, and a photographer, a software dev, and most recently a drone pilot by hobby.
+This talk follows the evolution of Get-DeviceCoords, a PowerShell-based endpoint geolocation tool that grew from a simple Windows Location Services lookup into an evidence-fusion workflow.</p>
+      <p class="bio">Bio: "Raphael Francoeur is a Threat Detection Engineering Specialist who spends his days building detections, hunting threats, and finding increasingly unreasonable things to automate with PowerShell. His work focuses on many things, and turning messy security data into something an analyst can actually use.
 
-Note that security isn't anywhere in there. And yet that's my day job.
-
-Draw your own conclusions."</p>
+When he isn’t writing detections, Raphael has a habit of taking simple questions like “where is this laptop?” far beyond their original scope. The result is usually more PowerShell, more telemetry, and at least one coworker asking whether he works for a three-letter agency."</p>
        
       
     </div>
@@ -476,23 +467,6 @@ Shab is also active in the responsible adoption and governance of artificial int
   </div>
 
   
-  <div class="row" style="padding-top:3em;" id="robkeizer">
-    <div class="col-lg-12 bg-primary">
-      <h4 class="title">A gentle introduction to Fully Homomorphic Encryption (FHE)</h4>
-      <h5 class="speaker">Rob Keizer</h5>
-    </div>
-  </div>
-  <div class="row">
-    <div class="col-lg-7">
-      <p class="abstract">Fully Homomorphic Encryption is a mouthful. FHE allows you to encrypt data, give it to a third party, have them compute on it, all encrypted, the third party doesn't know the content, or what the result was. This talk is a gentle introduction to the topic. </p>
-      <p class="bio">Bio: "Rob lives on a forested property outside of Winnipeg MB Canada with his wife, his dog, and many musical instruments. He has a background in computer science and has been presenting technical topics for decades."</p>
-       
-      
-    </div>
-  </div>
-
-  
-  
   <div class="row" style="padding-top:3em;" id="scottmiller">
     <div class="col-lg-12 bg-primary">
       <h4 class="title">Pod-tential for Disaster: Hacking Kubernetes from Pod to Cluster</h4>
@@ -510,4 +484,30 @@ Throughout the session, you’ll see exactly how bad actors chain these configur
     </div>
   </div>
 
+  
+  
+  <div class="row" style="padding-top:3em;" id="mikehimbeault">
+    <div class="col-lg-12 bg-primary">
+      <h4 class="title">A policy control is still a control!</h4>
+      <h5 class="speaker">Mike Himbeault</h5>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-lg-7">
+      <p class="abstract">Policies suck.
+
+But they are still a control. They are the most important one. They are the one you fall back on when you forget to add that deny-all rule in the firewall.
+
+This talk will develop a policy framework foundation from scratch by walking through the life of the world's most unlucky hypoethical startup.</p>
+      <p class="bio">Bio: "Mike is a mathematician by training, and a photographer, a software dev, and most recently a drone pilot by hobby.
+
+Note that security isn't anywhere in there. And yet that's my day job.
+
+Draw your own conclusions."</p>
+       
+      
+    </div>
+  </div>
+
+  
   
