@@ -21,6 +21,10 @@
     - name: iFixit
       logo: ifixit.jpg
       link: https://www.ifixit.com/
+    - name: PCBWay
+      logo: pcbway.png
+      link: https://www.pcbway.com/
+      scale: 0.70
 - level: Bronze
   sponsors:
     - name: Online Business Systems
