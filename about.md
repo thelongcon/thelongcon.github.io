@@ -11,6 +11,9 @@ permalink: /about/
     <h4>Participating</h4>
     <p>If you have any questions about how to participate in the event, either as a <a href="/speakers/">speaker</a> or a <a href="/sponsors/">sponsor</a>, please <a href="/contact/">contact the Organizers</a>.</p>
 
+    <h4>CPE Credits</h4>
+    <p>The Long Con's talks are likely eligible for Continuing Professional Education (CPE) credits under (ISC)&sup2; (CISSP) and ISACA certifications. We don't issue credits directly or guarantee approval, it's ultimately up to your certifying body to accept them, but we're happy to provide a certificate of attendance on request to support your submission if you need one.</p>
+
     <h4>Code of Conduct</h4>
     <p>We have no tolerance for physical/verbal/sexual harassment!</p>
 
