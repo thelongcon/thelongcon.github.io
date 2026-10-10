@@ -4,11 +4,13 @@
       logo: taiv.png
       link: https://taiv.tv
       scale: 0.8
+
 - level: Gold
   sponsors:
     - name: ISACA Winnipeg
       logo: isaca_2025.png
       link: https://engage.isaca.org/winnipegchapter/home
+
 - level: Silver
   sponsors:
     - name: Canada Life
@@ -18,13 +20,25 @@
     - name: FlexNetworks
       logo: flexnetworks.png
       link: https://flexnetworks.ca
-    - name: iFixit
-      logo: ifixit.jpg
-      link: https://www.ifixit.com/
+    - name: Aurora Cyber
+      logo: aurora.png
+      scale: 1.0
+      link: https://auroracyber.ca/
+
+- level: Silver - Workshop Materials
+  sponsors:
     - name: PCBWay
       logo: pcbway.png
       link: https://www.pcbway.com/
       scale: 0.70
+    - name: iFixit
+      logo: ifixit.jpg
+      link: https://www.ifixit.com/
+    - name: Mouser
+      scale: 0.75
+      link: https://www.mouser.ca/
+      logo: mouser.png
+
 - level: Bronze
   sponsors:
     - name: Online Business Systems
@@ -34,6 +48,8 @@
       logo: johnstongroup.png
       link: https://johnstongroup.ca/
       scale: 0.8
+
+
 - level: Individual
   sponsors:
     - name: Mike Legary
