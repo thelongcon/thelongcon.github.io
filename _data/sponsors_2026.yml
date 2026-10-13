@@ -21,8 +21,8 @@
       logo: flexnetworks.png
       link: https://flexnetworks.ca
     - name: Aurora Cyber
-      logo: aurora.png
-      scale: 1.0
+      logo: aurora.svg
+      scale: 0.9
       link: https://auroracyber.ca/
 
 - level: Silver - Workshop Materials
