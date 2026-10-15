@@ -11,6 +11,13 @@
       logo: isaca_2025.png
       link: https://engage.isaca.org/winnipegchapter/home
 
+- level: Silver + Speaker Dinner
+  sponsors:
+    - name: GoHacking
+      logo: gohacking.png
+      link: https://gohacking.ca/
+      scale: 1.1
+
 - level: Silver
   sponsors:
     - name: Canada Life
@@ -38,13 +45,6 @@
       scale: 0.75
       link: https://www.mouser.ca/
       logo: mouser.png
-
-- level: Bronze - Speaker Dinner
-  sponsors:
-    - name: GoHacking
-      logo: gohacking.png
-      link: https://gohacking.ca/
-      scale: 1.1
 
 - level: Bronze
   sponsors:
