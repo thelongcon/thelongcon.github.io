@@ -4,6 +4,10 @@
       logo: taiv.png
       link: https://taiv.tv
       scale: 0.8
+    - name: Clio
+      logo: clio.png
+      link: https://www.clio.com/ca/
+      scale: 0.7
 
 - level: Gold
   sponsors:
@@ -24,9 +28,6 @@
       logo: canada_life.png
       link: https://www.canadalife.com
       scale: 0.8
-    - name: FlexNetworks
-      logo: flexnetworks.png
-      link: https://flexnetworks.ca
     - name: Aurora Cyber
       logo: aurora.svg
       scale: 0.9
