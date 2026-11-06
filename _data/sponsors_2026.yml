@@ -59,6 +59,9 @@
       logo: johnstongroup.png
       link: https://johnstongroup.ca/
       scale: 0.8
+    - name: SeriousBS
+      logo: seriousbs.png
+      link: https://www.seriousbs.org/
 
 
 - level: Individual
